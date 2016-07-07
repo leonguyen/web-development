@@ -1,0 +1,32 @@
+# OAuth
+* Packages
+    - [eloquent-oauth](http://goo.gl/WUocJi) - Braindead simple OAuth authentication with Laravel 4 and Eloquent
+        - [eloquent-oauth-example](http://goo.gl/7JaDFh) - Basic example Laravel app with minimal setup required for Eloquent OAuth
+    - [laravel-oauth2](http://goo.gl/BWkXEm)
+        - [demo-l4-oauth](http://goo.gl/M9wXlU)
+    - [oauth2-server-laravel](http://goo.gl/x4wB1b)
+    - [node-oauth2-server](http://goo.gl/OTzb0H) - Complete, compliant and well tested module for implementing an OAuth2 Server/Provider with express in node.js
+    - [tenanti](http://goo.gl/lRoYiQ) - Multi-tenant Database Schema Manager for Laravel
+    - [laravel-multi-tenant](http://goo.gl/kMuP2l)
+    - [laravel-google-auth](https://goo.gl/vuyaQB) - Laravel Authentication Driver for Google OAuth authentication
+* Tutorial
+    - Google Plus
+        - [Sign In Users](https://goo.gl/VuSyGG)
+    - Sentry
+        - [Laravel 4 – using Sentry and OAuth for user management](http://goo.gl/NbTNbs)
+        - [oauth for laravel with sentry signup and connect with google github linkedin](http://goo.gl/JpvDf3)
+        - [Laravel: Enable Sentry user account be used in multiple computers](http://goo.gl/boKvuE)
+        - [Laravel Sentry 2 with multiple user types](http://goo.gl/9x1e0r)
+    - OAuth
+        - [OAuth 2.0 Tutorial](http://goo.gl/fsbjQo)
+        - [OAuth 2.0 - The Good, The Bad & The Ugly](http://goo.gl/eXSKXi)
+        - [Creating a PHP OAuth Server](http://goo.gl/N9pfzt)
+        - [The OAuth 2.0 Authorization Framework](http://goo.gl/zHWx9x)
+        - [Beer Locker: Building a RESTful API With Node - OAuth2 Server](http://goo.gl/hiqcVP)
+    - Hybridauth
+        - [Using Laravel 4.2+ with hybridauth package](https://goo.gl/cRuRcj)
+    - [Integrating Facebook Login into Laravel application](http://goo.gl/CoZFrZ)
+    - Adding Social Authentication to a Laravel 4 application [Part 1](http://goo.gl/bkZAt0) | [Part 2](http://goo.gl/wQAWfA) | [Part 3](http://goo.gl/E0FYkf)
+    - [Building SaaS App with Codeigniter MVC](http://goo.gl/jCkUTt)
+    - [Multi-Tenancy in Laravel 4](http://goo.gl/66fuK1)
+    - [Laravel 4: Multiple Tenant Application, each tenant it's own database and one global database](http://goo.gl/h5syRU)

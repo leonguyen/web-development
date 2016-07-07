@@ -1,0 +1,53 @@
+# Laravel
+* Packages
+    - Laravel
+        - [TimothyDJones/awesome-laravel](https://goo.gl/PL5XC9) - A curated list of delightful Laravel PHP framework packages and resources
+        - [chiraggude/awesome-laravel](https://goo.gl/KTiw0E) - A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem
+        - [apidocs](http://goo.gl/WidmGE) - Laravel API Docs Generator
+        - [laravel-apz](https://goo.gl/auFGlp) | [User guide](https://goo.gl/auFGlp) - The guide to build a Laravel 5.2 app from a to z
+        - [adminlte-laravel](https://goo.gl/XUMDK8) - A Laravel 5 package that switchs default Laravel scaffolding/boilerplate to AdminLTE template and Pratt Landing Page with Bootstrap 3.0
+        - [krisanalfa/laravel-adminlte](https://goo.gl/2vfpua) - This skeleton provides a barebone Laravel 5.2 Application with AdminLTE Template
+        - [laravel-setup-wizard](https://goo.gl/z8ujpW) - A Laravel package to help you build a web setup wizard for your application
+        - [LaravelInstaller](https://goo.gl/plUvyS) - A web installer for Laravel 5.1
+    - Lumen
+        - [Lumen](http://lumen.laravel.com/)
+        - [lumen-cors](http://goo.gl/jo24AL) - CORS Middleware for Lumen micro-framework
+        - [lumen-email-microservice](https://goo.gl/rHhVcP) - Microservice for sending emails with Lumen
+* Tutorial
+    - Laravel
+        - [Laravel 4.2 Docs](http://laravel.com/docs/4.2/)
+        - [Laravel 4.2 API](http://laravel.com/api/4.2/)
+        - [Laravel 4 Flowchart](http://bit.ly/10Wweh8)
+        - [laravelsnippets](http://goo.gl/jBvgMH) - LaravelSnippets.com website | A repository of useful code snippets for Laravel PHP framework. Submit, grab and share
+        - [Dunebook](http://goo.gl/LUDbFM)
+        - [Building Web Applications from Scratch with Laravel](http://bit.ly/15DpRRz)
+        - [Laravel 4 – simple website with backend tutorial - CodeForest](http://bit.ly/16y71bi)
+        - [Laravel Form Model Binding](http://bit.ly/1lajYmg)
+        - [Laravel 4 Multisites](http://bit.ly/1aCpAB3)
+        - [Deploying a Laravel Application Using Capistrano](http://bit.ly/1aY4eKn)
+        - [Sending Emails With Laravel 4 & Gmail](http://bit.ly/19RfKYu)
+        - User Authentication in Laravel 4.x: Simple Guide [Part 1](http://bit.ly/1bLXkwB) | [Part 2](http://bit.ly/1eHPlna)
+        - Creating a Blog Using Laravel 4 [Part 1](http://bit.ly/19d96B7) | [Part 2](http://bit.ly/M3HTGW) | [Part 3](http://bit.ly/1joQe5Z)
+        - [Building a Customer Management App Using AngularJS and Laravel](http://bit.ly/1grcqb2)
+        - [Laravel Tips, Tricks, & Workarounds for beginners](http://goo.gl/vlJhcE)
+        - [Laravel - Findalltogether](http://goo.gl/c69oWh)
+        - [Awesome Laravel](http://goo.gl/3KE7vP)
+        - [Creating a Helpers File](http://goo.gl/SpStLl)
+        - [Defining Your Own Helper Classes in Laravel 4](http://goo.gl/mD99HZ)
+    - Lumen
+        - [awesome-lumen](https://goo.gl/ovZ7eF) - Curated list of awesome resources: books, videos, articles about using Lumen (PHP Microframework by Laravel)
+        - [Not found page in Lumen after install](http://goo.gl/LdE17n)
+        - [Building a Micro Markdown API App with Lumen](http://goo.gl/Iqd5jJ)
+* Youtube
+    - Laravel
+        - [Laravel Tutorials - Arjun Yonjan](http://goo.gl/9gFNnP)
+        - [Laravel Tutorial - Andrewperk](http://bit.ly/157ZZeg)
+        - [Laravel Tutorials - Michael Calkins](http://bit.ly/150Yz6y)
+        - [Whats New in Laravel 4 - VideoTutorialsWatch](http://bit.ly/12X9kU9)
+        - [Laravel 4 - Sinan Eldem](http://bit.ly/1idw9hj)
+        - [Laravel 4 - fallendown2005](http://bit.ly/1eLfFhj)
+        - [Laracast](http://bit.ly/18poGsA)
+        - [Simple TDD Laravel Class That Feed Into Angular App](http://bit.ly/1dgzA4j)
+        - [How to install Laravel 4](http://bit.ly/1aYusO2)
+        - [Laravel 4 Authentication](http://bit.ly/Kg9uD0)
+        - [Build a Practical Web Application with Laravel](http://bit.ly/1n8iYmr) | [Download](http://adf.ly/pGPOp)

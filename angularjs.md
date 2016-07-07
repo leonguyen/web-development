@@ -1,0 +1,32 @@
+# AngularJS
+* Packages
+    - [generator](http://goo.gl/BwZyTn) - Laravel 4 and Angular artisan generator
+    - [angie](http://goo.gl/A6z8mb) - Laravel-Angular routing manager. Generates angular routing rules from serverside routing rules
+    - [Create a Laravel and Angular Single Page Comment Application](http://goo.gl/l6a2Bq)
+    - [Building a Customer Management App Using AngularJS and Laravel](http://goo.gl/4SnX9a)
+    - [end-to-end-with-angularjs](http://goo.gl/nXfCcj) - An intermediate/advanced look at how to use Angular JS in conjunction with a server-side
+    - [laravel-angularjs-basic](http://goo.gl/njYtth)
+    - [pop](http://goo.gl/8twBis) - Laravel Angular SPA Starter App
+    - [angular-laravel](http://goo.gl/E7MgBW)
+    - [laravel-angular-skeleton](http://goo.gl/jzON8d)
+    - [goals](http://goo.gl/Cq6dUh) - Goalsetting app in AngularJS and Laravel
+    - [customer-manager](http://goo.gl/0DY7u6) - A customer management application
+    - [angular-comments](http://goo.gl/5vhHsB) - Experiment in building an Angular Front End that communicates with a Laravel Backend
+    - [angular-laravel-timesheet](http://goo.gl/x0zqP1)
+* Tutorial
+    - Youtube
+        - Vietnamese
+            - [AngularJS căn bản cho người mới bắt đầu](https://goo.gl/ouBYSZ)
+        - [Angular JS Step by Step](https://goo.gl/owFi2y)
+        - [Angular JS Lessons](https://goo.gl/na0mO6)
+    - [Quick Tip: Using Laravel Blade with AngularJS](http://goo.gl/zBtz7h)
+    - [Create a Laravel and Angular Single Page Comment Application](http://goo.gl/0nlQS1)
+    - [Building a Customer Management App Using AngularJS and Laravel](http://goo.gl/IGpwr1)
+    - Creating a Polling Application Using AngularJS and Laravel [Part 1](http://goo.gl/PtbTjx) | [Part 2](http://goo.gl/28rvic)
+    - [AngularJS with Laravel](http://goo.gl/rV1tzR) - AngularJS and Used REST APIs to get/put data
+    - [Building a Customer Management App Using AngularJS and Laravel](http://goo.gl/CwxdXa)
+    - AngularJS – CRUD Data Grid, [Part 1](http://goo.gl/mhS1i3) | [Part 2](http://goo.gl/mvq6Vl) | [Part 3](http://goo.gl/J7u2tl)
+    - [Votr Part 5: AngularJS and CRUD Using RESTful APIs](http://goo.gl/CE8p4Q)
+    - [RESTful CRUD With AngularJS](http://goo.gl/d5nGrV)
+    - [AngularJS AJAX calls](http://goo.gl/q4A5kF)
+    - [Creating a Slide Show Plugin With AngularJS](http://goo.gl/MLHYGg)

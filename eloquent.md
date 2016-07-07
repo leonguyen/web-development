@@ -1,0 +1,41 @@
+# ORM
+* Packages
+    - [PHPixie/ORM](https://goo.gl/LAIE2w)
+    - [propelorm](http://propelorm.org/) | [Docs](http://goo.gl/lKisoE) | [sandbox](http://sandbox.propelorm.org/) - A highly customizeable and blazing fast ORM library for PHP 5.4+.
+    - [PHP Crud Class](http://goo.gl/YxKhYq)
+    - Laravel
+        - [laravel-repositories](http://goo.gl/Csavso) - Repository pattern implementation
+        - [eloquental](http://goo.gl/i2yZVj) - CreateA clever model for Laravel's Eloquent ORM with self-validation, ordering, and query control
+        - [Cahen](http://goo.gl/7Rxhdp) - A PHP package mainly developed for Laravel to manage order numbers of DB
+        - [eloquent-enhancements](http://goo.gl/sthxQf) - This package aims to provide extra functionalities to Laravel's Eloquent. The functionalities, for now, are provided in form of traits, so you don't have to change your models structure
+        - [eloquent-created-updated-by](http://goo.gl/5i0ER3) - Trait for automatically setting created_by_user_id and updated_by_user_id
+        - [eloquent-table](http://goo.gl/KBv32y) - An HTML table generator for laravel collections
+        - [Tucker-Eric/EloquentFilter](https://goo.gl/vX50Yv) - An Eloquent Way To Filter Eloquent Models
+* Tutorial
+    - [Extending Eloquent in Laravel 4](http://goo.gl/abwUzR)
+    - [Faster Retrieval and Array Searching with Laravel](http://goo.gl/7ep1tT)
+    - [A Guide to Using Eloquent ORM in Laravel](http://goo.gl/1a9Zl5)
+    - [5 Handy Laravel Eloquent Tips & Tricks](http://goo.gl/Ps4GA1)
+    - Lumen
+        - [Enable Eloquent ORM in Laravel Lumen micro-framework](https://goo.gl/4lyQ2s)
+    - Query
+        - [Raw Queries in Laravel](http://goo.gl/1qZ0Mu)
+        - [How to Get the Last Executed Query In Laravel](http://goo.gl/tawAcP)
+        - [How can I get the raw query string from Laravel's query builder BEFORE executing the query](http://goo.gl/Nzpjmr)
+    - [Stackoverflow - Eloquent](http://goo.gl/6Cvu9W)
+        - [Laravel Fluent Query Builder Join with subquery](http://goo.gl/uM1mVd)
+        - [Laravel 4 query builder - with complicated left joins](http://goo.gl/WG9jw5)
+    - Code Bright
+        - [Eloquent ORM](http://goo.gl/HIUz6J)
+            - [Queries](http://goo.gl/Y90iXI)
+            - [Collections](http://goo.gl/dsKC4p)
+            - [Relationships](http://goo.gl/9qsszf)
+    - [Eager Loading](http://goo.gl/m0vzPA)
+        - [Sorting eager loaded records in Laravel's Eloquent](http://goo.gl/2RNl9f)
+    - Random
+        - [Laravel - Eloquent or Fluent random row](http://goo.gl/LGZDU8)
+    - PDO, MySQLi
+        - [MySQL vs. MySQLi: Is the Improvement Right for You?](https://goo.gl/Vomfsh)
+        - [PDO vs. MySQLi: Which Should You Use?](http://goo.gl/RTJFtH)
+    - Youtube
+        - [Laravel eloquent Video Tutorials  | Skill Infinity](http://goo.gl/z2nEM0)

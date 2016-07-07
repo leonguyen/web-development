@@ -1,0 +1,66 @@
+# Snippets
+- PHP
+    - [Phex](https://florian.ec/phex/) - Phex provides PHP developers with tools to writer better PHP code faster. It replaces the default PHP package provided by Sublime Text and adds a bunch of useful commands, contains additional snippets and extends syntax highlighting.
+    - [AndyPHP](https://goo.gl/ghKnZJ) - Alternative PHP Completions
+    - [Sublime-Text-PHP-and-Laravel-Snippets](http://goo.gl/O5rgQ6)
+    - [PHPUnit Snippets](http://goo.gl/sCktRi)
+    - [sublime-phpcs](http://goo.gl/rAeO1w) - PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text
+    - [sublime-php-snippets](https://goo.gl/0xojK3) - Provides Sublime Text PHP Snippets
+    - [php-snippets](http://goo.gl/40lg0U) - The missing PHP snippets for Sublime Text
+- Laravel
+    - [laravel4-snippets](http://goo.gl/3l4935) - Laravel4 snippets for Sublime Text 2
+    - [Laravel 5 Snippets](https://goo.gl/7Sri6o) - Laravel 5 Snippets for Sublime Text
+    - [laravel-recipes](http://goo.gl/5eh0Yt) - Many, many snippets of Laravel http://laravel-recipes.com
+    - [L4snippets](http://goo.gl/3N74WD) - Laravel 4 Snippets para Sublime Text 2
+    - [laravel-sublime-text-2-snippets](http://goo.gl/VrpJDe) - Sublime Text 2 snippets generated from the Laravel Core
+    - [laravel-schema-snippet](http://goo.gl/4EYczi)
+    - [Laravel-Snippets](http://goo.gl/Iz32pq) - Laravel 4 Sublime Text Snippets
+    - [Cool-Laravel4-Snippets](http://goo.gl/5n19m5) - group of Snippets for Laravel Development
+    - [Laravel 4 Facades](https://goo.gl/Glx1TQ) - Sublime Text plugin that provides easy access to the Laravel 4 Facades
+    - [Laravel-4-Artisan](https://goo.gl/g3A8Vm) - Sublime Text plugin for Laravel 4 Artisan and Jeffrey Way Generators
+    - [Laravel 5 Artisan](https://goo.gl/5sYbHK) - Laravel 5 Artisan Commands for Sublime Text 3
+    - [sublime-laravel-snippets](http://goo.gl/Xgp3J5) - Laravel 4 snippets utilizando Twitter Bootstrap 3
+    - [Icon Fonts](http://goo.gl/UwOvUH) - Completions for popular icon fonts such as Font Awesome, Glyphicons and many more!
+    - [Larapaste-sublime-theme](https://goo.gl/GNvJ0z) - A Laravel Paste Bucket like Color Scheme for Sublime Text 2
+    - [laravel-helper-completions](https://goo.gl/XFihRP) - A set of completions for Laravel 5 helper functions
+    - [Laravel Cheat Sheet](https://goo.gl/brqJeX) - laravel小抄
+    - Views
+        - [Blade Snippets](http://goo.gl/KvqTww) - Snippets for blade template engine
+        - [laravelcollective-html-form-snippets](https://goo.gl/Gh1kGg) - Sublime Text 3 snippets for LaravelCollective/html form elements
+        - [Laravel Bootstrapper Snippets](https://goo.gl/zetlbH) - Sublime Text 2 snippets for Laravel Bootstrapper
+        - [Laravel Forms Bootstrap Snippets](https://goo.gl/yPAacl) - Handy Sublime Text snippets to create forms inputs for Laravel Collective Forms with Twitter Bootstrap 3
+- Frontend
+    - [sublime-front-end-snippets](https://goo.gl/GF1xDf) | [Demo](https://goo.gl/ZAYPzy) - html, css, js, schema.org, wai-aria, es6, regex, test-frameworks, jQuery, reactJS snippets for Sublime Text 2/3
+- HTML & CSS
+    - [CSS-Snippets](http://goo.gl/3MWxpq) - A set of custom CSS snippets for Sublime Text
+    - [Emmet CSS completions for Sublime Text](https://goo.gl/bggWnb) | [Demo](http://goo.gl/cgJBbi)
+    - [HTML-Snippets](http://goo.gl/jen2PN) - A set of custom HTML snippets for Sublime Text
+    - [sublime-form-input-snippet](http://goo.gl/zZnXw6)
+    - [CSS-and-CSS3-Sublime-snippets](http://goo.gl/YgAfCS)
+    - [foundation-5-sublime-snippets](http://goo.gl/Q2hURU) - ZURB Foundation 5 Sublime Text 2 Snippets
+    - [PureCSS](http://goo.gl/jG2Pdh)
+    - [Tag](http://goo.gl/lZ8sq2) - Collection of packages about HTML/XML tags
+- Boostrap
+    - [bootstrap-sublime](http://goo.gl/Y8RgqH)
+    - [sublime-twitter-bootstrap-snippets](http://goo.gl/U1Njzf)
+    - [bs3-sublime-plugin](http://goo.gl/m3JC1t) - Twitter Bootstrap 3 Snippets Plugin for Sublime Text 2/3
+    - [bs3-sublime-plugin](https://goo.gl/Zw44bz) - Twitter Bootstrap 3 Snippets Plugin for Sublime Text 2/3
+- Javascript
+    - [JavaScript Completions](https://goo.gl/e9Qx0e)
+    - [JavaScript Snippets](http://goo.gl/mqkZPT)
+    - [JavaScript Patterns snippets](http://goo.gl/WHXebc)
+    - [sublime-jquery-snippets](http://goo.gl/oh97bZ)
+    - [sublime-javascript-snippets](http://goo.gl/z48ARw)
+    - [sublime-text-underscore-snippets](http://goo.gl/ijQolZ)
+    - [st-JavaScript-override](http://goo.gl/uZ3DSP)
+    - [Front End Snippets](http://goo.gl/TQsIIi) | [Docs](http://goo.gl/IruWun)
+    - [AutoCompleteJS](https://goo.gl/PRJlS0) - method/function/var autocomplete functionality for JavaScript /JS
+- jQuery
+    - [jquery-plugin-snippets](http://goo.gl/NNVXML)
+    - [jQuery](http://goo.gl/oqD4ls)
+    - [sublime-jquery-snippets](https://goo.gl/qF3db3) - Code snippets for developing with jQuery
+- ReactJS
+    - [sublime-react-es6](https://goo.gl/Qji2Ja) - ES6 based Sublime Text snippets for React
+- Tutorial
+    - [How to use dollar signs/JQuery with Sublime Text 2 Snippets?](http://goo.gl/WlZx2m)
+    - [Sublime Text 3 Guide: Tips, Tricks, and Shortcuts](https://goo.gl/ZdnEZY)

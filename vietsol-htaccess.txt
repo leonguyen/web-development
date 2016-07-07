@@ -1,0 +1,59 @@
+#   backward compatibility ruleset for rewriting document.html to document.php
+#   when and only when document.php exists but no longer document.html
+<IfModule mod_rewrite.c>
+  RewriteEngine on 
+  RewriteCond %{HTTP_HOST} !^www.vietsol.net [NC]
+  RewriteRule ^(.*)$ http://www.vietsol.net/$1 [L,R=301]
+
+  # Rewrite current-style URLs of the form 'index.php?q=x'.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ vspublic.php?vs=$1 [L,QSA]
+</IfModule>
+
+ErrorDocument 403 /403.php
+ErrorDocument 404 /404.php
+
+# Set Expires Headers
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+Header set Expires "Thu, 15 Jan 2015 20:00:00 GMT"
+</FilesMatch>
+
+# Set the cache-control max-age
+# 1 year
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css|swf)$">
+Header set Cache-Control "max-age=31449600, public"
+</FilesMatch>
+# 2 DAYS
+<FilesMatch "\.(xml|txt)$">
+Header set Cache-Control "max-age=172800, public, must-revalidate"
+</FilesMatch>
+# 4 HOURS
+<FilesMatch "\.(html|htm)$">
+Header set Cache-Control "max-age=14400, must-revalidate"
+</FilesMatch>
+
+# Turn off the ETags
+#Header unset ETag
+#FileETag None
+
+# Turn off the Last Modified header except for html docs
+<FilesMatch "\.(ico|pdf|flv|jpg|jpeg|png|gif|js|css)$">
+Header unset Last-Modified
+</FilesMatch>
+
+<IfModule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/html image/gif image/png image/jpeg text/plain text/xml text/css text/javascript application/x-javascript
+BrowserMatch ^Mozilla/4\.[0678] no-gzip
+BrowserMatch \bOpera !no-gzip
+Header append Vary User-Agent
+</IfModule>
+
+order allow,deny
+allow from all
+<FilesMatch "\.(php|pl|py|jsp|asp|htm|shtml|sh|cgi)$">
+deny from all
+</FilesMatch>
+<Files vspublic.php>
+allow from all
+</Files>

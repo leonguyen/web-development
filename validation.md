@@ -1,0 +1,71 @@
+# Validation
+* Packages
+    - [Wixel/GUMP](https://goo.gl/DWhCm4) - A fast, extensible & stand-alone PHP input validation class that allows you to validate any data
+    - [blackbelt/php-validation](https://goo.gl/lnmIgl) - Form validation
+    - Laravel
+        - [Ardent](http://goo.gl/06R3F0)| [Document](http://goo.gl/uZeSBi)
+            - [Translatable & Ardent](http://goo.gl/wnjwuf)
+            - [Ardent: Laravel Models on Steroids](http://goo.gl/3Chc9u)
+        - [KennedyTedesco/Validation](http://goo.gl/U7pQ7s) -  The power of 'Respect Validation' on Laravel 4 Validation
+            - [Respect/Validation](http://goo.gl/10iE9u) | [Docs](http://goo.gl/xKWTd8) -  The most awesome validation engine ever created for PHP
+        - [dwightwatson/validating](http://goo.gl/crCZBy) - Trait for validating Eloquent models on save in Laravel 4.2.
+            - [dwightwatson/validating](http://goo.gl/IErcII) - Trait for validating Eloquent models on save in Laravel 5.0
+        - [pingpong-labs/validator](http://goo.gl/E00JEC)
+        - [iyoworks/Validation](http://goo.gl/7RVpzH) -  An abstract class to implement validation as a service
+        - [iricketson/Validation](http://goo.gl/KMIqSx) - A simple approach to input validation, processing, and persistence
+        - [fervent](http://goo.gl/Cw6CGT) - Self-validating, secure and smart models for Laravel 4's Eloquent O/RM
+        - [Laravel Phone Validator](http://goo.gl/XwLlwO)
+        - [uniquewith-validator](http://goo.gl/a5iXqT)
+        - [laravel-form-validator](http://goo.gl/7z43NT) - Generate form validators for Laravel: an extension of way/generators
+        - [laravel-model-shield](http://goo.gl/oMZH36) - A validator for simple models of Laravel
+        - [Laravel-Model-Validation](http://goo.gl/SMwtdg) -  This Laravel package auto-validates a model on save
+        - [ValidatorAssistant](http://goo.gl/mG71cD) - Decouple validation from Laravel controllers with validation classes
+        - [validator-loader-laravel](http://goo.gl/gGAXoY) -  Integrates Validator Loader as Service Provider into Laravel
+        - [laravel-extended-validator](http://goo.gl/fhwHfA) -  Extended Validation for Laravel 4 Providing Contextual and Grouped Validation
+        - [validator-laravel](http://goo.gl/oHlzqb) - laravel validation as a service
+        - [laravel-validation-trait](http://goo.gl/37qZNP) - Provide a powerful trait for laravel 4 model
+        - [laravalid](https://goo.gl/jgLp7Y) - Laravel Validation For Client Side : This package makes validation rules defined in laravel work client-side by converting to html/js plugins such as jquery validation. It also allows to use laravel validation messages so you can show same messages for both sides.
+        - [FastValidate](https://goo.gl/N3hMf7)
+        - Image Validator
+            - [image-validator](https://goo.gl/uTjFKg) - Laravel validator rules for image dimensions
+            - [Image Validator](http://goo.gl/nV186n)
+            - [Intervention/validation](http://goo.gl/pdZeDD) -  Extension for the Laravel 4 validation class
+    * PHP
+        - [filter-var](http://goo.gl/hXS5E6)
+            - [Validate filters](http://goo.gl/wQjgdP)
+            - [How can I validate an unsigned number in PHP?](http://goo.gl/yB6ugy)
+* JS Libraries
+    - [jquery-validation](http://goo.gl/zBKd7G) | [Docs](http://goo.gl/8hpZiG) | [Demo](http://goo.gl/PzUHJF)
+        - [jQuery Ajax Validation Use the Remote Rule - sitepoint](http://goo.gl/Ps4PjP)
+        - [jQuery Validate Demo with styles from Twitter Bootstrap](http://goo.gl/Ffhpao)
+        - [jquery-validation-bootstrap-tooltip](http://goo.gl/PoNxfH) | [Demo](http://goo.gl/0tXLVX)
+    - [jq-idealforms](http://goo.gl/k2eIDH) | [Demo](http://192.241.132.92/idealforms3-demo/) - The ultimate framework for building and validating responsive HTML5 forms
+    - [jquery.bank](http://goo.gl/ITU8vs) - Build and validate bank account forms
+    - [BootstrapValidator](http://bootstrapvalidator.com/)
+        - [Compatibility](http://goo.gl/982seI)
+        - Password strength: [zxcvbn](http://goo.gl/Elp2xu)
+    - [validate.js](http://validatejs.org/) | [Demo](https://goo.gl/hPExoK) - Validate.js provides a declarative way of validating javascript objects
+    - [jQuery Form Validator](http://formvalidator.net/) | [Github](https://goo.gl/O57cuU)
+    - [jquery-validator](http://goo.gl/HxE7rO)
+* Tutorial
+    - [Laravel Validation](http://goo.gl/GXfI4n)
+    - [Laravel validator for alphabetic characters and spaces](http://goo.gl/iIhhJ5)
+    - [Input Validation with Laravel](http://goo.gl/dCfM1b)
+    - [Trick: Validation within models](http://goo.gl/X6ePD7)
+    - [Data Validation in Laravel: The Right Way](http://goo.gl/a2avRz)
+        - [Data Validation in Laravel: The Right Way – Custom Validators](http://goo.gl/nURd8N)
+    - [Laravel Form Validation](http://goo.gl/nPuWK5)
+    - How To Validate Forms With Laravel [Part 1](http://goo.gl/L7TrLZ) | [Part 2](http://goo.gl/hLVFuw)
+    - [Validate Multiple Choice fields in Laravel 4](http://goo.gl/Pmb4Zh)
+    - [Validation errors in AJAX mode](http://goo.gl/flaFOZ)
+    - [Laravel 4 - how to return all validation error messages for all fields as a JSON structure?](http://goo.gl/pXYSc6)
+    - [Retrieving validator error messages in Laravel 4](http://goo.gl/DREcky)
+    - qTip2
+        - [Integrating qTip with MVC3 and jQuery Validation (errorPlacement)](http://goo.gl/YBVl9E)
+    - Ardent
+        - [Ardent: Laravel Models on Steroids](http://goo.gl/XmQ3wl)
+    - jqueryvalidation
+        - [Build a Simple PHP, jQuery, and AJAX Powered Contact Form](http://goo.gl/Dy6Cym)
+        - [Adding reCaptcha validator to jQuery Validate with AJAX check and PHP](http://goo.gl/S36eNz)
+    - Youtube
+        - [laravel 4 - jquery ajax FormData name validation and errors feedback](http://youtu.be/UK1XZDPRroo)

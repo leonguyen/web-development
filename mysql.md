@@ -1,0 +1,55 @@
+# MySQL
+* Apps
+    - [HeidiSQL](http://www.heidisql.com/)
+        - [MySQL Workbench](http://goo.gl/8FIvNV)
+        - Linux: [DBeaver](http://dbeaver.jkiss.org/)
+    - [Adminer](http://www.adminer.org/) - Database management in a single PHP file
+    - [Instant SQL Formatter](http://goo.gl/GUQ8YI) - Instant SQL Formatter
+* MySQL Cluster
+    - Tutorial
+        - [Oracle And MySQL Database](https://goo.gl/Xps9eb)
+        - Youtube
+            - [MySQL Cluster in under 5 minutes](https://www.youtube.com/watch?v=JvsKP3mQIM4)
+* Tuning
+    - [MySQLTuner-perl](http://mysqltuner.com/) - MySQLTuner is a script written in Perl that will assist you with your MySQL
+    - [mysqltuner](https://goo.gl/cxXONK) - MySQL Tuner for Windows
+    - [MySQLTuner-PHP](https://goo.gl/YwDzAE) - PHP Version of MySQL Tuner
+* Tutorial
+    - [MySQL Tutorial](http://www.mysqltutorial.org/)
+    - [SQL Teaching](https://www.sqlteaching.com/)
+    - [MySQL SQL Injection Cheat Sheet](http://goo.gl/ynQQtR)
+    - [A Tiny Intro to Database Systems](http://goo.gl/VzyiIj)
+    - [Create your own fulltext searchengine with PHP and MySQL](http://goo.gl/CeWMxB)
+    - MySQL Workbench
+        - [How to create ER Diagram from existing Database using MySQL WorkBench](http://youtu.be/Wfy8rdhXyWw)
+    - Performance
+        - [MySQL Memory Allocation](http://mysql.rjweb.org/doc.php/memory)
+        - [Working with large databse](http://goo.gl/OepTXJ)
+        - [Ten ways to improve the performance of large tables in MySQL](http://goo.gl/DolbJQ)
+        - [What to tune in MySQL 5.6 after installation](http://goo.gl/nwM3UY)
+        - [MySQL Tuning — High Memory Usage](http://goo.gl/u5zyeH)
+        - [InnoDB performance optimization basics (redux)](https://goo.gl/4YvLAo)
+        - [MySQL 5.1 vs. 5.5 vs. 5.6 Performance Comparison](http://goo.gl/ORqfLB)
+        - [DBA and Developer Guide to What's New in MySQL 5.6](http://goo.gl/ZxHCNF)
+    - Multiple DB Connections
+        - [Multiple DB Connections in Laravel](http://goo.gl/mt2AmN)
+        - [Read / Write Connections](http://goo.gl/1nAE95)
+    - Stored Procedure
+        - [laravel stored procedures](http://goo.gl/5JmtX0)
+    - Indexing
+        - [Improved InnoDB fast index creation](http://goo.gl/IGhC2r)
+        - [How to Use Unique Indexes in MySQL and Other Databases](http://goo.gl/7FAV15)
+    - Full-text Search
+        - [Boolean Full-Text Searches](http://goo.gl/7dktKz)
+        - [How to build a MySQL-powered search engine](http://goo.gl/L0wAAR)
+        - [Using MySQL Full-text Searching](http://goo.gl/1vMZE9)
+        - [Implementing Full-Text search in Laravel](http://goo.gl/ZFpXpf)
+        - [MySQL Search Order by Relevance Column Using FULLTEXT](http://goo.gl/5UdeHk)
+        - [How to build a MySQL-powered search engine](http://goo.gl/nLviUs)
+        - [Is this full text search possible in eloquent?](https://goo.gl/p0IEoW)
+    - FIND_IN_SET
+        - [dev.mysql](http://goo.gl/GXhZ40)
+        - [How to search for a comma separated value](http://goo.gl/nUEeTF)
+    - DateTime
+        - [Comparing Dates in PHP and MySQL](http://goo.gl/ORIaCo)
+        - [PHP compare DateTime with current time](http://goo.gl/ZbNJ9Z)

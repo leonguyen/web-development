@@ -1,0 +1,31 @@
+# Git
+* Tools
+    - [Git SCM](http://goo.gl/cO6rXA)
+        - [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download?tm=2) | [SourceTree](http://www.sourcetreeapp.com/)
+    - [gitgoodies](http://goo.gl/KPYpYr) - Shortcuts for the Git Commands You Use Everyday. https://www.npmjs.com/gitgoodies
+    - [Gogs](http://gogs.io/) - A self-hosted Git service written in Go
+* Tutorial
+    - [Hướng dẫn về Git cho người mới bắt đầu](https://goo.gl/Y2a9kQ)
+    - [Try Git](http://goo.gl/6ivQ2q) - Got 15 minutes and want to learn Git?
+    - [Learn Git Branching](http://goo.gl/2QIZg9)
+    - [Git Real](http://goo.gl/FmOvxY)
+    - [GitHub Cheat Sheet](http://goo.gl/o9Flsc)
+    - [git ignore exception](http://goo.gl/d1KxTx)
+    - [Installation and usage of Git with commands](http://goo.gl/UfIY0x)
+    - Youtube
+        -  [GitHub Training & Guides](http://goo.gl/taCQ6f)
+    - Branches
+        - [Giới thiệu một mô hình sử dụng Git branches hiệu quả](http://goo.gl/pxAHon)
+        - [Branch – Kỹ thuật phân nhánh (Branch)](http://goo.gl/bzdTWt)
+        - [Using Branches](http://goo.gl/L5XH5r)
+        - [Git Reference](http://gitref.org/branching/)
+        - [Git Branching - Basic Branching and Merging](http://goo.gl/Sxhhh9)
+        - [A successful Git branching model](http://goo.gl/qtVZwk)
+        - [Focusing on a Team Workflow With Git](http://goo.gl/e6Ns5d)
+        - [Dealing with Emergencies in Git](http://goo.gl/TfiavF)
+    - Merge
+        - [Get changes from master into branch in git](http://goo.gl/gDxCZt)
+        - [How to fetch updated code form master in earlier created branch in git](http://goo.gl/T1hlFi)
+        - [Resolving a merge conflict from the command line](http://goo.gl/XPaF3p)
+    - Pull
+        - [What are the differences between 'git pull' and 'git fetch'?](http://goo.gl/hnCzQI)

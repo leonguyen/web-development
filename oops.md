@@ -1,0 +1,59 @@
+# OOP
+* Packages
+    - [LazyProperty](https://goo.gl/6jj72B) - An utility to lazy-initialize object properties
+    - Trait
+        - [dave1010/php-traits](https://goo.gl/O5mkUc) - Collection of PHP 5.4 Traits
+        - [charnad/pesty](https://goo.gl/2q1g5U) - Collection of PHP traits
+        - [permissible](https://goo.gl/w4Y5Yp) - A permission system implemented as a trait
+        - [options-trait](https://goo.gl/GRgiBT) - Trait to make it easy to add options arrays to object classes
+        - [php-commons](https://goo.gl/z7SfMN) - The PHP commons will provide useful interfaces, traits and classes for general solutions
+        - [tvswe/error](https://goo.gl/EaIGOk) - Error Trait
+        - [SingletonPatternPHP](https://goo.gl/HPpHAX) - A lightweight PHP implementation of the Design Pattern Singleton using trait
+        - [bundle](https://goo.gl/1m4xjG) - Our common classes / traits for dev
+        - [witchcraft](https://goo.gl/oSM3pI) - Opionated PHP magic methods as traits for PHP 5.4
+        - [peterhorne/traits](https://goo.gl/MDQwxE) - A collection of useful traits for PHP
+        - [php-design-patterns](https://goo.gl/2XvKix) - Design patterns implemented using traits in PHP 5.4
+        - [single-table-inheritance](https://goo.gl/OuqSn4) - A Single Table Inheritance Trait for Eloquent/Laravel
+        - [PHP-Singleton-Trait](https://goo.gl/MQrC9d) - A quick way to turn any class into a singleton using this trait
+* Tutorial
+    - [Object Oriented Programming tutorial in PHP](http://goo.gl/yqGqWO)
+    - [PHP stdClass](http://goo.gl/1S80jC): Storing Data in an Object Instead of an Array
+    - [Basic PHP-MySql OOP](http://goo.gl/Mrgco4)
+    - [Introducing PHP Classes](http://goo.gl/gUez2C)
+    - [What are PHP Traits?](http://goo.gl/aAeVKh)
+    - Document Root
+        - [Resolving PHP Relative Path Problem](http://goo.gl/tdgW0p)
+        - [PHP Document Root, Path and URL detection](http://goo.gl/d8sHFl)
+        - [Organize Your Next PHP Project the Right Way](http://goo.gl/9Goiw4)
+    - Global
+        - [Help! - Cannot access a global variable.](https://goo.gl/PBRcmk)
+    - Variable Variables and Variable Functions
+        - [Getting Smarter Code with PHP Variable Variables and Variable Functions](http://goo.gl/ZpsqAA)
+    - Static
+        - [Static Class Constructor](https://goo.gl/30AYP8)
+    - Magic Methods
+        - [9 Magic Methods in PHP](http://goo.gl/VDgRMy)
+        - [Magic Methods in PHP](http://goo.gl/CqmSvK)
+        - [Overloading and Overriding in PHP](http://goo.gl/Sdn6px)
+        - [Deciphering Magic Methods in PHP](http://goo.gl/pcDfeo)
+        - [Best practice: PHP Magic Methods __set and __get](http://goo.gl/jHhYDV)
+        - [Magical PHP: __call()](http://goo.gl/ZSY44M)
+    - Chaining Methods
+        - [PHP Method Chaining](http://goo.gl/ALNwLJ)
+        - [Method Chaining in PHP](http://goo.gl/sGULMz)
+    - spl_autoload_register
+        - [Using spl_autoload_register to Load All Classes in a PHP Project](http://goo.gl/kaX4m6)
+        - [Some tricks with Autoloaders](http://goo.gl/XhBIE9)
+        - [PHP SPL autoload: 3 simple rules you must follow](http://goo.gl/AqBhap)
+        - [Efficient PHP auto-loading and naming strategies](http://goo.gl/RtBQBq)
+    - Reflection
+        - [Introspection and Reflection in PHP](http://goo.gl/O2LdG6)
+    - Alias
+        - [FuelPHP Framework - Class and Namespace alias library](https://goo.gl/xG0MIR)
+        - [3 Ways to Access a Namespaced PHP Class](http://goo.gl/PtK3jy)
+    - Lazy
+        - [LazyProperty - Automatic property initialization for PHP](http://goo.gl/3B4wDg)
+        - [Logging global PHP objects and saving memory using a lazy loading proxy](https://goo.gl/g9js5A)
+    - Inheritance
+        - [PHP Inheritance – Calling parent’s functions in child object](http://goo.gl/TcRWze)
+        - [Can I extend a class using more than 1 class in PHP?](http://goo.gl/OA5YI5)

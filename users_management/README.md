@@ -1,0 +1,42 @@
+# Users Management
+* Packages
+    - [Ajax-Login](https://goo.gl/ve8EbZ) - A nice and simple php based login system complete with ajax submission, email verification, password reset, and a config file
+    - [Secure-User-Login-And-Authentication-Class](https://goo.gl/MTRWUy) - This is a PHP5 class that creates a secure php user session and also offers vigorous password encryption. It is compatible with both PDO drivers 'sqlite' and 'mysql'
+    - [OOPHPLoginSystem](https://goo.gl/uiJ25n) - OOP PHP Login and register system
+    - [UserApplePie/UserApplePie-v3](https://goo.gl/hjE6Zh) - UserApplePie v3 User Management System Nova Framework MVC CMS PHP MySQL
+    - WordPress
+        - [Form Maker](http://goo.gl/Ol9nOJ)
+        - [Visual Form Builder](http://goo.gl/8RarnY)
+    - Laravel
+        - [club](http://goo.gl/cEUrrD) - A simple Laravel Auth module
+        - [permissions](http://goo.gl/vPq7N6) - Check your permissions with a simple 1-liner: $user->can('do something', $onAnObject)
+        - [laravel-messenger](http://goo.gl/PKgJjn) - Simple user messaging tool for Laravel
+        - [Usermanager](http://goo.gl/C0wz8K) - User Manager w/ Sentry 2.1 in Laravel 4.1 / 4.2
+        - [laravel-user-manager](http://goo.gl/47OOVD) - The user manager package for Laravel. To handle user based operations signup, login, user activation
+        - [Firadmin](http://goo.gl/2UIVno) - Laravel 4 package used to create a beautiful admin panel with default user managment
+        - [cmarfil/laravel-multiuser-json-settings](http://goo.gl/s2SJkZ) - Simple multi user json settings facade for Laravel 4
+        - [kenarkose/Ownable](https://goo.gl/3I0gHn) - Easy ownership for Eloquent Models with Laravel 5
+        - [EasyAdmin](https://goo.gl/XNPRke) - EasyAdmin - Advanced Laravel Login and User Management with Two-Factor Authentication
+        - [LaravelDaily/quickadmin](https://goo.gl/61iaeP) | [Docs](http://goo.gl/TZ76Y5) - Quick adminpanel builder package for Laravel 5
+        - ACL
+            - [laravel-authentication-acl](http://goo.gl/lFBPfE)
+            - [laravel-acl-rbac](http://goo.gl/usy4Bf) - Laravel Acl componnet which can filter urls/requests and models
+            - [BeatSwitch/lock](http://goo.gl/7NNcPE) - A flexible, driver based Acl package for PHP 5.4
+                - [lock-laravel](http://goo.gl/NTmEY3) - This package is a Laravel driver for Lock
+            - [redoubt-plus](http://goo.gl/vWhVzZ) - A resource-level ACL for Laravel 4
+            - [spatie/laravel-permission](https://goo.gl/vTBkQP) - Associate users with roles and permissions
+            - [neposoft/fieldAcl](https://goo.gl/GDi4uz) - A laravel package to support acl on database fields of your models
+            - [romanbican/roles](https://goo.gl/RyrPua) - Powerful package for handling roles and permissions in Laravel 5
+* Tutorial
+    - ASP.NET
+        - ASP.NET Identity 2.1 with ASP.NET Web API 2.2 (Accounts Management) [Part 1](http://goo.gl/gBc0je) | [Part 2](http://goo.gl/8xYG5I) | [Part 3](http://goo.gl/iUEKAX)
+    - [The God Login](http://goo.gl/YCqXQB)
+    - [Simple and Easy Laravel Login Authentication](http://goo.gl/eCTp3H)
+    - [Authentication With Laravel 4](http://goo.gl/TkWoM5)
+    - [Laravel Unwrapped: Session, Auth and Cache](http://goo.gl/jSr4C1)
+    - [Building a User Management System in Laravel](http://goo.gl/yBrDY1)
+    - [Build Your First Admin Bundle for Laravel](http://goo.gl/s4TfyX)
+    - [Create an Admin Interface in Laravel](http://goo.gl/XNrWtJ)
+    - [A Better Login System](http://goo.gl/BQAvC9)
+    - stackoverflow
+        - [How to: implement sentry 2 permissions with Laravel 4?](http://goo.gl/p0coc7)

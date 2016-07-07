@@ -1,0 +1,66 @@
+# Routing
+* Packages
+    - Laravel
+        - [router](http://goo.gl/JHvBDw)
+        - [enhanced-router](http://goo.gl/nyLgZV)
+        - [apirouter](http://goo.gl/apqVTX) - Customisable router
+        - [tura](http://goo.gl/D9TbIQ) - expose named routes in javascript
+        - [slug-routes](http://goo.gl/90Z9pB) - Slug-aware Route Model Binding
+            - [slug-routes-example](http://goo.gl/kCR5xP)
+        - [burp](http://goo.gl/q88hus) - simple php router that works with uri, query string or both
+        - [laravel-4-js-routes](https://goo.gl/igjNvB) - Laravel routes from Javascript
+        - Cache
+            - [Laravel-4-Route-Cache](http://goo.gl/RKtb9G)
+            - [laravel-response-cache](http://goo.gl/SkfDzz) - Route response caching for Laravel
+            - [Cache All Laravel Routes in 4 lines](http://goo.gl/oFGszf)
+* Tutorial
+    - An Introduction to the Front Controller Pattern [Part 1](http://goo.gl/R5NaWm) | [Part 2](http://goo.gl/nTOJEh)
+    - [Fast PHP Routing with PHRoute](http://goo.gl/pWF2YW)
+    - Laravel
+        - [Routing](http://laravel.com/docs/routing)
+        - [Request](http://goo.gl/Fjxevi)
+    - Clivern
+        - [Laravel Routing](http://goo.gl/hRrcBW)
+        - [Laravel URL Generation](http://goo.gl/wrJqcb)
+        - [Working With Laravel Filters](http://goo.gl/xiaJFq)
+        - Laravel Requests and Inputs [Part 1](http://goo.gl/25CLgu)
+    - Jason Lewis
+        - [Routes or Controllers](http://goo.gl/kJh4vl)
+        - [Controller and Route Layouts](http://goo.gl/OOs57f)
+        - [Reverse Routing](http://goo.gl/Wkcs7X)
+    - Code Bright
+        - [Basic Routing](http://goo.gl/atLbvt)
+        - [Responses](http://goo.gl/YbBk5h)
+        - [Filters](http://goo.gl/7pwm2j)
+        - [Controllers](http://goo.gl/59IJ9x)
+        - [Advanced Routing](http://goo.gl/YNcCBR)
+        - [URL Generation](http://goo.gl/oK9cV3)
+        - [Request Data](http://goo.gl/EceAyD)
+    - [Understanding Laravel Route Parameters](http://goo.gl/ioAwHX)
+    - [Simple and Easy Laravel Routing](http://goo.gl/04a73i)
+    - [Laravel RESTful Controllers](http://goo.gl/sVr1vk)
+    - [Laravel Routing and Query Building](http://goo.gl/blVHp8)
+    - [Call a controller in Laravel 4](http://goo.gl/R7UXQb)
+    - Filter
+        - [Laravel Filter Routes](http://goo.gl/l0Obwh)
+        - [Caching routes using filters in Laravel 4](http://goo.gl/IisjM8)
+        - [Using route filters in Laravel](http://goo.gl/67VRSX)
+    - Pretty SEO Path
+        - [Laravel routing: /seo-path-here to LandingPageController@getPage](http://goo.gl/NSq0Tf)
+        - [Routing 'pretty' URLs to items with specific IDs](http://goo.gl/caLWAV)
+        - [Laravel Paginator Pretty URLs](http://goo.gl/D7N7JC)
+    - Dynamic route
+        - [Laravel dynamic route from MySQL](http://goo.gl/2NViNM)
+        - [Dynamic urls in laravel?](http://goo.gl/CezbpG)
+        - [Laravel Creating Dynamic Routes to controllers from Mysql database](http://goo.gl/zQaV7n)
+        - [Making dynamic pages from DB with Laravel](http://goo.gl/XwOUiP)
+        - [Variables in route group prefixes in Laravel 4](http://goo.gl/ttlj2N)
+        - [Route prefix as parameter](http://goo.gl/q4DzFn)
+        - [Groups in group on routing](http://goo.gl/8to8Ar)
+        - [Reverse routing to grouped controllers](http://goo.gl/YcmsYE)
+        - [Get controller action from url, laravel](http://goo.gl/YPwdhv)
+    - Wildcard
+        - [Laravel - Using (:any?) wildcard for ALL routes?](http://goo.gl/5lICmv)
+    - Large Route
+        - [Laravel 4 large Route count increases booting time](http://goo.gl/2vxbks)
+        - [Laravel Tip – Break up your routes](https://goo.gl/keRCzN)

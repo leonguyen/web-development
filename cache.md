@@ -1,0 +1,55 @@
+# Cache
+* Packages
+    - [Simple-PHP-Cache](http://goo.gl/5KY6Rg) - A light, simple but powerful PHP5 Cache Class which uses the filesystem for caching
+    - [cosenary/Simple-PHP-Cache](https://goo.gl/cO44z4) - A light, simple but powerful PHP5 Cache Class which uses the filesystem for caching
+    - [JG_Cache](https://goo.gl/RDLsIa) - Simple PHP file-based caching class
+    - [PHP MySQL Caching Wrapper](http://goo.gl/E6Rh7r) - Execute MySQL queries and cache results in files
+    - [PHP Cache](http://goo.gl/43JT3F) - The PHP Cache organization is dedicated to providing solid, powerful, flexible, and lightweight caching libraries for PHP projects
+    - [slimphp/Slim-HttpCache](https://goo.gl/8Q3nhJ) - Slim Framework HTTP cache middleware and service provider
+    - [mmamedov/page-cache](https://goo.gl/lzJsuK) - PageCache is a lightweight PHP library for full page cache. Your dynamic PHP page's output is fully cached for a period of time you specify. Mobile devices cache support built-in
+    - Laravel
+        - [Flatten](http://goo.gl/Wf7JeN) - A package to flatten any website to plain HTML
+            - [Flattnr](http://goo.gl/mcZd1G) - Flatten class for laravel 4
+        - [EloCache](http://goo.gl/feJWAh) - Cache extension for Laravel4
+        - [laravel-cash](http://goo.gl/EIBi7J) - Simple to use cache layer for your laravel application using memcached & nginx
+        - [laravel-html-cachebusting](http://goo.gl/YKFNyn)
+        - [laravel-resque](http://goo.gl/TLHpso)
+        - [Fast PHP Caching](http://www.phpfastcache.com/)
+        - [laravel-cache-protract](http://goo.gl/vm3wvv) - File based cache prolonger for Laravel
+        - [laravel-precedent](http://goo.gl/JHr3yw) - Auto Cache and Purge on Eloquent
+        - [laravel-fragment-caching](http://goo.gl/9YiV8r) | [Docs](http://goo.gl/egCpY7)
+        - [dsettings](http://goo.gl/mf8lB3) - Store settings in the database and use cache to increase performance
+        - [tedious/Stash](https://goo.gl/wHsKUy) - The place to keep your cache
+        - Database
+            - [laravel-mongodb-cache](http://goo.gl/sg1pyh) - A MongoDB cache driver for Laravel 4 and the package jenssegers\mongodb
+            - [squirrel](https://goo.gl/xXwAei) - A Laravel package that automatically caches and retrieves models when querying records using Eloquent ORM
+    - Twig
+        - [twig-cache-extension](https://goo.gl/5DNvOU) - The missing cache extension for Twig. Caching template fragments with Twig
+        - [TwigCacheBundle](https://goo.gl/eAEa8W) - Symfony Bundle for asm89/twig-cache-extension
+    - Drupal
+        - [Drupal 8 Performance](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9Xr-AIOUwZLe2wLzopFHEy)
+* References
+    - [W3 Total Cache](http://goo.gl/NvouBd)
+        - [How to Configure W3 Total Cache](http://youtu.be/az7X-SyPe0I)
+* Tutorial
+    - [Cache](http://laravel.com/docs/cache)
+        - [Caching Queries](http://goo.gl/5uoeiK)
+            - [Cache Tags](http://goo.gl/KHMHor)
+            - [Laravel 4: Easily Cache Eloquent Collections](http://goo.gl/gEYfWj)
+            - [Easy Eloquent + Relation Cache Management](http://goo.gl/StZZbk)
+            - [Caching Database Queries](http://goo.gl/d1Ubc0)
+        - Sections
+            - [Caching data in sections](http://goo.gl/0mX8vC)
+        - [Increments & Decrements](http://goo.gl/PIze1y)
+        - [Session](http://laravel.com/docs/session)
+        - [Laravel Unwrapped: Session, Auth and Cache](http://goo.gl/5e1K7F)
+        - [Caching routes using filters in Laravel 4](http://goo.gl/0tD7tJ)
+        - [Laravel 4 Cache as a Service](http://goo.gl/qgWket)
+        - [Easy trick to move cache files to RAM without coding a PHP line](http://goo.gl/KBypdX)
+        - [Event Listeners - Forget cache upon model events or custom events](http://goo.gl/l1lmCn)
+        - [Simple Twitter Feed with Cache Using Laravel and Twitter API](http://goo.gl/kii4vm)
+        - [A Study on a Custom Laravel CMS's Caching System](http://goo.gl/rPUVDs)
+    - Youtube
+        - [Laravel Caching Video Tutorials  | Skill Infinity](http://goo.gl/KXflKV)
+        - [Laravel Caching Ins and Outs](http://youtu.be/Hl4-dftfc0o)
+        - [cache forever](http://youtu.be/MgdHkY0yfNw)

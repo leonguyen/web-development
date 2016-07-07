@@ -1,0 +1,24 @@
+# Display
+- Process bar
+    - [Pace](http://goo.gl/cQH0kQ) - Automatic page load progress bar
+    - [countUp.js](http://goo.gl/KXKJth) - Animates a numerical value by counting to it
+    - [drop.js](http://goo.gl/MVyFfJ) - A library for creating dropdowns and other floating elements
+- Sticky/Fixed position
+    - [jQuery-Plugins.net](http://goo.gl/pE7BQ1)
+    - [StickyjS](http://stickyjs.com/)
+    - [jQuery-Stickem](http://goo.gl/UKhQhd) - Make items sticky as you scroll, to a point
+    - [Sticky-Kit](http://goo.gl/NxQIFQ)
+    - [stickUp](http://goo.gl/3ApO9t)
+    - [hcsticky](http://goo.gl/HKRPvU) | [Demo](http://goo.gl/575LPY) - Cross-browser jQuery plugin that makes any element attached to the page and always visible
+    - [jQuery.stickOnScroll](http://goo.gl/26gDPs)
+    - [ScrollToFixed](http://goo.gl/BwWXCo) - This plugin is used to fix elements on the page (top, bottom, anywhere); however, it still allows the element to continue to move left or right with the horizontal scroll.
+- Chart
+    - [mermaid](http://goo.gl/QwTWg7) - Generation of diagram and flowchart from text in a similar manner as markdown
+    - [exceljs](http://goo.gl/fmOtaO) - Excel Workbook Manager
+- Scroll
+    - [Power steering for your scroll wheel](http://goo.gl/h692y0)
+    - [Midnight.js](http://goo.gl/BNBQBH) - Midnight.js lets you switch fixed headers on the fly
+- Preloader
+    - [Material Design Preloader](http://goo.gl/RLl8ZI) - A jQuery plugin that recreates the Material Design preloader
+    - [fakeLoader.js](http://goo.gl/oWbSYQ) - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect
+- [HubSpot Dev & Design](http://github.hubspot.com/)

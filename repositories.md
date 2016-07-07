@@ -1,0 +1,37 @@
+# Repositories
+* Packages
+    - [laravel-repositories](http://goo.gl/xOdMuJ) - Repository pattern implementation for Laravel
+    - [laravel-repository](http://goo.gl/OfGRtY) | [Wiki](http://goo.gl/wJKjwk) - Repository implementation for Laravel 4
+    - [laravel-repo](http://goo.gl/lspmWJ) - Simple implementation of the Repository Interface for Eloquent with the most basic CRUD methods
+    - [repoflow](http://goo.gl/C5DViF) - A simple trait to allow fluently querying repositories with an eloquent model. Gives back the flexibility of eloquent to some extent, while remaining explicit on which methods are supported by a repository
+    - [laravel-repository-response](http://goo.gl/g5A6GY) - Make a contract on the response of your Repository class methods
+    - [micheleangioni/support](http://goo.gl/bc6gE5) - A Laravel 4 package which promotes the use of best practices and design patterns
+    - [Magician](http://goo.gl/0iAUKp) - A library for implementing repositories with magic finders for the Eloquent ORM
+    - Laravel 5
+        - [laravel-repositories](http://goo.gl/Zzcwwu) - Some basic repository functionality for Laravel 5
+        - [Bosnadev/Repositories](https://goo.gl/K8jHQY) - Laravel Repositories is a package for Laravel 5 which is used to abstract the database layer. This makes applications much easier to maintain
+        - [torann/laravel-repository](https://goo.gl/Rqi168) | [Docs](http://goo.gl/LWUkre) - A generic repository implementation for Laravel with a few extras
+        - [jespejoh/lararepo](https://goo.gl/YplIQD) - A package that provides a neat implementation for integrating the Repository pattern with Laravel & Eloquent
+        - [eloquent_filefield](https://goo.gl/MYkn0z) - Automatically save files assigned to eloquent model attributes
+        - [SebastianBerc/Repositories](https://goo.gl/Mj6WNg) - Laravel ~5.1 Repositories Library
+* Tutorial
+    - [Creating Entities in Laravel 4](http://goo.gl/911b3j)
+    - [Using Repository Pattern](http://goo.gl/Zd618I)
+    - [Creating flexible Controllers in Laravel 4 using Repositories](http://goo.gl/JrJKV7)
+    - [Eloquent tricks for better Repositories](http://goo.gl/phzI6r)
+    - [Injecting Data Model (Repository) AND Business Model in Controller?](http://goo.gl/EHihNI)
+    - [How to Build a Fluent Laravel Repository API](http://goo.gl/IQ6YEj)
+    - Laravel 5
+        - [Using Repository Pattern in Laravel 5](https://goo.gl/UnihBB)
+        - [Using Repository Pattern In Laravel 5 – Eloquent Relations And Eager Loading](https://goo.gl/GkXSSb)
+    - slashnode
+        - [A Pattern for Reusable Repository Design in Laravel](http://goo.gl/7b8DrP)
+        - [Building Testable Applications using the Repository Pattern](http://goo.gl/KVr1DC)
+    - Sitepoint
+        - [Building a Domain Model – Integrating Data Mappers](http://goo.gl/rT5ANF)
+    - Tutsplus
+        - [The Repository Design Pattern](http://goo.gl/zltUWz)
+    - Stackoverflow
+        - [Proper Repository Pattern Design in PHP?](http://goo.gl/1DSM4q)
+    - [Datamapper pattern in PHP](http://goo.gl/rB4Ie1)
+    - [CRUD operation using Object relational model and Data Mapper pattern for a Matrimonial website](http://goo.gl/QFvNTM)

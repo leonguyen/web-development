@@ -1,0 +1,14 @@
+# Selenium
+- Packages
+    - [Selenium IDE](http://goo.gl/1dZxwN)
+    - [Selenium Builder](http://goo.gl/mVJzPv)
+    - [Selenium IDE: Codeception Formatters](http://goo.gl/Zdy6Li)
+- Jenkins Plugins
+    - [Selenium Builder Plugin](http://goo.gl/spqCin)
+    - [Seleniumhq Plugin](http://goo.gl/lVqJUO)
+- Tutorial
+    - The Best Free Selenium Tutorials to Learn and Master Selenium Online – Selenium Training Tutorial [Part 1](http://goo.gl/9o0LuP) | [Part 2](http://goo.gl/V0xGt8)
+    - [How to Run Selenium Remote Control (RC) Server as a Windows Service with AlwaysUp](http://goo.gl/YKwp95)
+    - Youtube
+        - [Introduction to Selenium Builder](http://youtu.be/kzVZg_kGcC8)
+        - [Use Data-Driven from file excel in Selenium 2.0](http://youtu.be/56CmrAYevDo)

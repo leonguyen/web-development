@@ -1,0 +1,57 @@
+# CRUD
+* Packages
+    - Admin
+        - [admin](http://goo.gl/Oq8VXJ) | [Video](http://goo.gl/sJbGEy)
+        - [Lara-Admin](http://goo.gl/s24D49) | [Video](http://youtu.be/bV5U-yFYUWM) - Admin Interface for Laravel
+        - [Bauhaus](http://goo.gl/I55wHc) | [Document](http://goo.gl/Rp7j67) - The missing Laravel 4 Admin Generator
+        - [laravel-table-admin](http://goo.gl/AB3WTT) - Laravel-Table-Admin Simple CRUD package for Laravel 4
+        - [ReactiveAdmin](http://goo.gl/XNKupq) - Fast, Flexible & Secure Admin for Laravel4
+        - [laravel-artificer](http://goo.gl/usQIfa) - Artificer is an admin package built on top of your Eloquent models
+        - [LaravelAdmin](http://goo.gl/xDCXrE) - Admin for Laravel Project
+        - [Laravel-5-Bootstrap-3-Starter-Site](http://goo.gl/XNB1fR) - Laravel Framework 5 Bootstrap 3 Starter Site is a basic application with news, photo and video galeries
+        - [Laravel Backend](https://goo.gl/3yA5ru) | [Docs](http://laravelbackend.com/)
+        - [Laravel-Backpack/crud](https://goo.gl/i2ecto) - Build a custom admin interface for your Eloquent models, using Laravel 5.2
+        - [yabhq/laracogs](https://goo.gl/cSkS3I) - Prepare your Laravel apps incredibly fast, with various commands, services, facades and boilerplates
+    - [rapyd-laravel](http://goo.gl/jPQNQR) - Grids and Forms | [Demo](http://goo.gl/JOKQQI) | [Wiki](http://goo.gl/RHu0KB)
+    - [Laravel-Administrator](http://goo.gl/UvaAAE) | [Docs](http://goo.gl/5EoFOS) | Video: [Installation](http://vimeo.com/64693369) | [Fields](https://vimeo.com/65980351)
+    - [Raw](http://goo.gl/RwZnJJ) | [Docs](http://raw.adigheorghe.ro/) | [Demo](http://goo.gl/qzjZW2)
+        - [Image CRUD](http://goo.gl/jX2kiQ) | [Docs](http://goo.gl/Yn8PmR)
+    - [Cruddy](http://goo.gl/Rb2F1D) | [Docs](http://goo.gl/vF4Hoq) | [Demo](http://goo.gl/6Dc4xN)
+    - [Foundry](http://goo.gl/v1JlK2) - Easily perform CRUD tasks on Eloquent models
+    - [CrudBase](http://goo.gl/CO8Wrk) - Provides basic automatization for Controllers to handle CRUD operations in Laravel 4
+    - [crudbud](http://goo.gl/JlHRSx) - Leverages bootstrapper and laravel-form-builder to simplify CRUD in your Laravel projects
+    - Grid
+        - [zofe/datagrid](http://goo.gl/d9PHwj)
+        - [Nayjest/Grids](http://goo.gl/Mc3DNS) | [Demo](https://goo.gl/bWW3hP) - Grids framework for Laravel
+        - [Chumper/Datatable](http://goo.gl/hQAzto) - This is a laravel 4 package for the server and client side of datatables
+            - [addColumn function, model same ID](http://goo.gl/VdYBld)
+        - [bllim/laravel4-datatables-package](http://goo.gl/T2dD8y) - Server-side handler of DataTables Jquery Plugin for
+        - [Data Grid - Cartalyst](http://goo.gl/Mn1C6X)
+            - [demo-data-grid](http://goo.gl/8XZU7V)
+* Apps
+    - [Laravel CMS](http://goo.gl/6Jj39O) - CRUD Builder - Administrator - [Demo](http://goo.gl/U0WZBc)
+    - [LARAVEL C.R.U.D. with Modals & AJAX](http://goo.gl/AKvKPi) | [Demo](http://goo.gl/72hzD3)
+    - AsgardCms
+    - [SleepingOwl Admin](http://sleeping-owl.github.io/) | [Document](http://goo.gl/nlS9SY) - Administrative interface builder for Laravel
+    - [human-capital](http://goo.gl/ES5n3Z) - Sample CRUD application for Laravel with backend, frontend, and ajax validation
+    - [CRUD Admin Generator](http://crud-admin-generator.com/) - An open source tool to generate a complete backend from a MySql database - Silex framework
+    - [ajaxCRUD](http://www.ajaxcrud.com/) - a PHP class to Create, Read, Update, & Delete from a mysql database table using AJAX
+* JS Libraries
+    - [CRUD](http://goo.gl/laE5oy) - ajax crud ui generator
+    - [ajaxphp](http://goo.gl/7tYxLL) - Simple PHP and MySQL CRUD with jQuery Ajax
+    - [modeljs](http://goo.gl/LvcjNU) - Javascript library to handle CRUD actions for models via ajax
+* Tutorial
+    - [The Foundations of CRUD in Laravel 4](http://goo.gl/bAkCmf)
+    - [Creating a Simple CRUD Application in Hours](http://goo.gl/NnPM5b)
+    - [Simple Laravel CRUD with Resource Controllers](http://goo.gl/9E8bFv)
+    - [Dead simple CRUD in Laravel 4](http://goo.gl/Lqu0lO)
+    - [Simple Laravel Layouts using Blade](http://goo.gl/KzRAag)
+    - [Bootstrap 3 – One Delete Confirm Dialog For All](http://goo.gl/hTdAu4)
+    - [Laravel WYSIWYG editor](http://goo.gl/7ndzuW)
+    - [Creating a CRUD App in Minutes with Angular’s $resource](http://goo.gl/1hK7OW)
+    - [Referral Tree using JOrgChart and Laravel / PHP](http://goo.gl/HOaMjJ)
+    - [CRUD with jQuery and PHP for a Better User Experience](http://goo.gl/K4EFCp)
+    - [Hiding Fields When Querying Laravel Eloquent Models](http://goo.gl/2UnAXM)
+    - [CRUD with jQuery and PHP – Step By Step Guide](https://goo.gl/W8ybOK)
+    - Data Grid
+        - [Data-grid - Medium](http://goo.gl/jvrMZ0)

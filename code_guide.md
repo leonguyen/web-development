@@ -1,0 +1,31 @@
+# Code Guide
+* Libraries
+    - [PHPPackages](https://phppackages.org/)
+    - [phpclasses](http://goo.gl/VirIqh) - Top 10 charts
+    - [functional-php](https://goo.gl/hoZ5Tb) - Primitives for functional programming in PHP
+    - [8 Best PHP Tools For Analysing And Parsing Code](http://goo.gl/Ag2qrY)
+    - [40+ tools for writing better PHP](http://goo.gl/qvHTlb)
+* Tutorial
+    - [PHP: The Right Way](http://www.phptherightway.com/)
+    - [hackingwithphp.com](http://www.hackingwithphp.com/)
+    - [Codecademy](https://goo.gl/i8IXJO)
+    - [PHP Tutorial](http://goo.gl/9v6ixl) - 1keydata
+    - [developphp.com](https://www.developphp.com/)
+    - [Practical Demonstration and Use of PHP Functions and Utilites | PHP Lab](http://www.phplab.info/)
+    - [phpmysqlcode.com](http://www.phpmysqlcode.com/)
+    - [eHow - PHP / MySQL Programming](http://goo.gl/E3Fxmc)
+    - [Simple and Best way to Learn PHP](https://goo.gl/hmGzE2)
+    - [Dịch vụ chia sẻ kiến thức về lập trình miễn phí](https://viblo.asia/vi)
+    - Best Practices
+        - [PHP Best Practices](http://goo.gl/xIHpts)
+        - [50 Awesome PHP code snippets for developers](https://goo.gl/jdZ1lH)
+    - Cheat sheet
+        - [PHP cheat sheet](http://phpcheatsheets.com/)
+        - [Laravel 5 and Laravel 4 Cheat Sheet](http://goo.gl/v9z8dZ)
+        - [CSS CHEAT SHEET - lesliefranke](http://goo.gl/Qs7bUQ)
+        - [CSS Cheat Sheet - adam-marsden](http://goo.gl/62u78W)
+    - Performance
+        - [50+ best practices to optimize PHP code performance](http://goo.gl/QC4VY1)
+    - Youtube
+        - [PHP cơ bản](https://goo.gl/nje9aL)
+        - [Learn PHP in 15 minutes](https://youtu.be/ZdP0KM49IVk)

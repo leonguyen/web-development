@@ -1,0 +1,39 @@
+# Migrations
+* Packages:
+    - [Phinx](https://github.com/robmorgan/phinx) - PHP Database Migrations for Everyone
+    - Laravel
+        - [migrations-generator](http://goo.gl/5NWxJ5) - Generate Migrations from an existing database
+            - Tutorial
+                - [Generate migration from existed database in Laravel 4](http://goo.gl/sdXcz1)
+        - [laravel-convert-migrations](http://goo.gl/rvMcJR) - This is a custom command to convert your current SQL database schema into a Laravel 4 Migration file
+        - [DbExporter](http://goo.gl/iPpQ3q) - Export your database as a Laravel Migration. And export your DB data as a seed file. Finally sync all this with your remote server
+        - [laravel-migration-squasher](http://goo.gl/YbSyyS) - Aggregate your incremental Laravel migration files into a single migration for each table. This eliminates all alter columns and makes BD testing via sqlite a possibility.
+        - [iSeed](http://goo.gl/dB40PO) - Inverse seed generator
+        - [laravel-conditional-seeder](http://goo.gl/fyPCiH)
+        - [laravel-seeder](http://goo.gl/htSlP4) - Run one or more seeder files with a very easy command
+        - [laravel-automigrate](http://goo.gl/Rs5m7l) - allows defining a sequence of migrations for your vendor and workbench packages and running them with one command
+        - [fakable](http://goo.gl/ugpVD4) - Allows the creation and seeding of fake Eloquent models
+        - [backup-manager](http://goo.gl/YFNdFK) - Database backup manager for dumping to and restoring databases from S3, Dropbox, FTP, SFTP, and Rackspace Cloud
+        - [laravel-backup](http://goo.gl/QppKag) - Backup and restore database support for Laravel 4 applications
+        - [LaravelDatabaseDesigner](http://goo.gl/FhaA3p)
+        - [SmartSeeder](http://goo.gl/v0zljH) - A smart way of seeding tables in Laravel
+        - [sleeping-owl/seeder](http://goo.gl/dU7j77) - Package to create simple seeders with ability to lock/unlock tables
+        - [goya](http://goo.gl/D2LTk3) - Database Schema Diff Tool for Laravel
+        - [FastMigrate](https://goo.gl/uBJg5x)
+* Tutorial
+    - Phinx
+        - [PDF docs](https://goo.gl/CKD7su)
+        - [Getting Started With Phinx](http://goo.gl/HDTrHT)
+        - [Database Migrations in PHP With Phinx](http://goo.gl/QMv8Uv)
+        - [Complex database migrations with PHP/MySQL using Phinx](https://goo.gl/0HfjWk)
+        - [CakePHP3 Database Migrations with Phinx](http://goo.gl/2Mpp9b)
+    - Code Bright
+        - [Databases](http://goo.gl/9ZD8r6)
+        - [Schema Builder](http://goo.gl/VNmP0p)
+        - [Migrations](http://goo.gl/3RAz3Q)
+    - [Build a Database with Eloquent, Faker and Flysystem](http://goo.gl/K7oyiv)
+    - [Laravel 4 Database Seeding with Faker](http://goo.gl/OHU8NA)
+    - [Using Faker To Populate Your Laravel Projects During Development](http://goo.gl/MhBLlU)
+    - [Laravel unit testing in workbench note](http://goo.gl/KJ7M0c)
+    - Youtube
+        - [enum for published or not published value](http://youtu.be/G3RDAmP8LgA)

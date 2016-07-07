@@ -1,0 +1,12 @@
+# Input
+- [RESPONSIVE filemanager](http://www.responsivefilemanager.com/)
+- Chart: [NVD3](http://nvd3.org/index.html)
+- HTML5: [KineticJS](http://kineticjs.com/)
+- Ajax: [BlockUI](http://goo.gl/J2EPbK) | [NProgress.js](http://goo.gl/5wBD2A)
+- [ion.rangeSlider - jQuery only range slider](http://goo.gl/TFeH3T)
+- Type
+    - [Mousetrap](http://craig.is/killing/mice)
+    - [TypeWatch](https://goo.gl/kDFy87) - A jquery plugin to determine when a user has stopped typing in a text field
+- Editable
+    - [X-editable](http://goo.gl/PjIITP) | [Demo](http://goo.gl/IsYo0W)
+        - [In place Editing with X-editable & Laravel](http://goo.gl/Kmxmq1)

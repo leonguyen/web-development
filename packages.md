@@ -1,0 +1,45 @@
+# Packages
+* Packages
+    - [Componette](https://componette.com/) - Addons, plugins and components
+    - [Libraries](https://libraries.io/) - The Open Source Discovery Service
+    - [PHPPackages](https://phppackages.org/) - Discover, share and discuss PHP packages
+    - [spatie](https://goo.gl/MmS601) - Spatie is a webdesign agency based in Antwerp, Belgium. We specialize in Laravel development
+    - Laravel
+        - [Packalyst](http://packalyst.com/) - Packages for your Laravel projects
+        - [package-installer](http://goo.gl/rzT0RV) - Ultimate Package Installer
+        - [LaravelInstaller](https://goo.gl/Q8K7YL) - A web installer for Laravel 5.1
+        - [laravel-vendor-cleanup](http://goo.gl/Fy21s9)
+        - [laravel-utilities](http://goo.gl/6a8b7E)
+        - Workbench
+            - [auto-publish](http://goo.gl/P8X0Eg) - Automatically publish all Laravel workbench assets on every request
+            - [Laravel-Workbench-Walkthrough](http://goo.gl/xlMYim)
+            - [Workbench Helper](http://goo.gl/swhhlJ)
+            - [laravel-helpers](http://goo.gl/oMCJIS) - migration management in workbenchs
+        - [satis](http://goo.gl/L8yMcr) - Simple static Composer repository generator
+        - [deficient](http://goo.gl/TXzvZA) - subset of laravel components, an easy way to get up and running eloquent, validations, translations and blade in your application
+        - [laravel-resourceful](http://goo.gl/mm4ght) - Create Migration, Seed, Request, Controller, Model and Views for your resource (CRUD)
+* Tutorial:
+    - [Packages](http://laravel.com/docs/packages)
+    - [Thank You To PHP’s Top Package Authors](http://goo.gl/us8xsm)
+    - [Laravel 4: Develop Packages Using The Workbench](http://goo.gl/W1fjeU)
+    - [Using private packages in Laravel 4](http://goo.gl/cu4ljT)
+    - [Installing private PHP Composer packages](http://goo.gl/O7CgyE)
+    - [Creating your very own Composer Package](http://goo.gl/vgstjj)
+    - [Creating a Package for Composer](http://goo.gl/aOsgQ1)
+    - [Best Laravel Packages to Speedup Development](http://goo.gl/JRnB1y)
+    - [Private composer repository](http://goo.gl/kRB0vd)
+    - [Creating package in workbench - Class not found - have run composer](http://goo.gl/iQgYJN)
+    - [Laravel 4 package from private repository: ServiceProvider not found](http://goo.gl/u8N1X5)
+    - [composer create-project from private repo](http://goo.gl/S6JgK1)
+    - Satis
+        - [Handling private packages with Satis or Toran Proxy](http://goo.gl/wKTsoX)
+        - [Setting Up a Local Mirror for Composer Packages With Satis](http://goo.gl/G0xhMG)
+        - [Satis Composer Repository Installation](http://goo.gl/qwKB3G)
+        - [Composer is not reading my local Satis packages.json file](http://goo.gl/IVkvYe)
+        - [Satis - How to set name in generated packagist packages.json](http://goo.gl/nURSKT)
+    - Cleanup
+        - [Question About Laravel 4 Minimal Deployment to Server](http://goo.gl/MrqLge)
+    - [Package Migrations](http://goo.gl/iVfwI8)
+    - [PHP the right way - PHP Package Management with Composer](http://goo.gl/WG39bi)
+    - [Starting a New PHP Package The Right Way](http://goo.gl/eXptQm)
+
