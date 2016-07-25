@@ -8,21 +8,23 @@
     - [sublime-php-snippets](https://goo.gl/0xojK3) - Provides Sublime Text PHP Snippets
     - [php-snippets](http://goo.gl/40lg0U) - The missing PHP snippets for Sublime Text
 - Laravel
-    - [laravel4-snippets](http://goo.gl/3l4935) - Laravel4 snippets for Sublime Text 2
-    - [Laravel 5 Snippets](https://goo.gl/7Sri6o) - Laravel 5 Snippets for Sublime Text
+    - Laravel 4
+        - [laravel4-snippets](http://goo.gl/3l4935) - Laravel4 snippets for Sublime Text 2
+        - [L4snippets](http://goo.gl/3N74WD) - Laravel 4 Snippets para Sublime Text 2
+        - [Cool-Laravel4-Snippets](http://goo.gl/5n19m5) - group of Snippets for Laravel Development
+        - [Laravel 4 Facades](https://goo.gl/Glx1TQ) - Sublime Text plugin that provides easy access to the Laravel 4 Facades
+        - [Laravel-4-Artisan](https://goo.gl/g3A8Vm) - Sublime Text plugin for Laravel 4 Artisan and Jeffrey Way Generators
+        - [Laravel-Snippets](http://goo.gl/Iz32pq) - Laravel 4 Sublime Text Snippets
+        - [sublime-laravel-snippets](http://goo.gl/Xgp3J5) - Laravel 4 snippets utilizando Twitter Bootstrap 3
+    - Laravel 5
+        - [Laravel 5 Snippets](https://goo.gl/7Sri6o) - Laravel 5 Snippets for Sublime Text
+        - [Laravel 5 Artisan](https://goo.gl/5sYbHK) - Laravel 5 Artisan Commands for Sublime Text 3
+        - [laravel-helper-completions](https://goo.gl/XFihRP) - A set of completions for Laravel 5 helper functions
     - [laravel-recipes](http://goo.gl/5eh0Yt) - Many, many snippets of Laravel http://laravel-recipes.com
-    - [L4snippets](http://goo.gl/3N74WD) - Laravel 4 Snippets para Sublime Text 2
     - [laravel-sublime-text-2-snippets](http://goo.gl/VrpJDe) - Sublime Text 2 snippets generated from the Laravel Core
     - [laravel-schema-snippet](http://goo.gl/4EYczi)
-    - [Laravel-Snippets](http://goo.gl/Iz32pq) - Laravel 4 Sublime Text Snippets
-    - [Cool-Laravel4-Snippets](http://goo.gl/5n19m5) - group of Snippets for Laravel Development
-    - [Laravel 4 Facades](https://goo.gl/Glx1TQ) - Sublime Text plugin that provides easy access to the Laravel 4 Facades
-    - [Laravel-4-Artisan](https://goo.gl/g3A8Vm) - Sublime Text plugin for Laravel 4 Artisan and Jeffrey Way Generators
-    - [Laravel 5 Artisan](https://goo.gl/5sYbHK) - Laravel 5 Artisan Commands for Sublime Text 3
-    - [sublime-laravel-snippets](http://goo.gl/Xgp3J5) - Laravel 4 snippets utilizando Twitter Bootstrap 3
     - [Icon Fonts](http://goo.gl/UwOvUH) - Completions for popular icon fonts such as Font Awesome, Glyphicons and many more!
     - [Larapaste-sublime-theme](https://goo.gl/GNvJ0z) - A Laravel Paste Bucket like Color Scheme for Sublime Text 2
-    - [laravel-helper-completions](https://goo.gl/XFihRP) - A set of completions for Laravel 5 helper functions
     - [Laravel Cheat Sheet](https://goo.gl/brqJeX) - laravel小抄
     - Views
         - [Blade Snippets](http://goo.gl/KvqTww) - Snippets for blade template engine
