@@ -18,7 +18,4 @@
 - Scroll
     - [Power steering for your scroll wheel](http://goo.gl/h692y0)
     - [Midnight.js](http://goo.gl/BNBQBH) - Midnight.js lets you switch fixed headers on the fly
-- Preloader
-    - [Material Design Preloader](http://goo.gl/RLl8ZI) - A jQuery plugin that recreates the Material Design preloader
-    - [fakeLoader.js](http://goo.gl/oWbSYQ) - fakeLoader.js is a lightweight jQuery plugin that helps you create an animated spinner with a fullscreen loading mask to simulate the page preloading effect
 - [HubSpot Dev & Design](http://github.hubspot.com/)

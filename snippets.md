@@ -34,8 +34,8 @@
 - Frontend
     - [sublime-front-end-snippets](https://goo.gl/GF1xDf) | [Demo](https://goo.gl/ZAYPzy) - html, css, js, schema.org, wai-aria, es6, regex, test-frameworks, jQuery, reactJS snippets for Sublime Text 2/3
 - HTML & CSS
-    - [CSS-Snippets](http://goo.gl/3MWxpq) - A set of custom CSS snippets for Sublime Text
     - [Emmet CSS completions for Sublime Text](https://goo.gl/bggWnb) | [Demo](http://goo.gl/cgJBbi)
+    - [CSS-Snippets](http://goo.gl/3MWxpq) - A set of custom CSS snippets for Sublime Text
     - [HTML-Snippets](http://goo.gl/jen2PN) - A set of custom HTML snippets for Sublime Text
     - [sublime-form-input-snippet](http://goo.gl/zZnXw6)
     - [CSS-and-CSS3-Sublime-snippets](http://goo.gl/YgAfCS)

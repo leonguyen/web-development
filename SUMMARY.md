@@ -114,6 +114,7 @@
            * [Fonts](fonts.md)
            * [Hover Effects](hover_effects.md)
            * [Scroll to top](scroll_to_top.md)
+           * [Loading Overlay](loading_overlay.md)
    * [Controllers](controllers.md)
    * [Database](database.md)
        * [MySQL](mysql.md)

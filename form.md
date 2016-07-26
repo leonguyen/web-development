@@ -3,6 +3,7 @@
     - [nette/forms](https://goo.gl/5LukFs) | [Docs](https://goo.gl/5uP8D7) - Nette Forms: greatly facilitates web forms
     - [kristijanhusak/laravel-form-builder](https://goo.gl/9J3wXK) | [Docs](http://goo.gl/quDCX2) - Laravel Form builder for version 5
 * JS Libraries
+    - [jQuery Form Plugin](http://goo.gl/0ALUt2)
     - [Alpaca](http://www.alpacajs.org/)
         - [angular-form-builder](https://github.com/kelp404/angular-form-builder) | [angularjs-form-builder](http://goo.gl/uU79rd)
     - [jQuery.gridform](http://goo.gl/Y25GLN) - jQuery-Plugin for creating complex forms (table-based) with usage of bootstrap and (optional) Font-Awesome
