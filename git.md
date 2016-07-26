@@ -4,6 +4,7 @@
         - [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download?tm=2) | [SourceTree](http://www.sourcetreeapp.com/)
     - [gitgoodies](http://goo.gl/KPYpYr) - Shortcuts for the Git Commands You Use Everyday. https://www.npmjs.com/gitgoodies
     - [Gogs](http://gogs.io/) - A self-hosted Git service written in Go
+    - [GitStack](http://gitstack.com/) - The wizard setup will help you to install your git server for windows in a few steps. It's hassle free.
 * Tutorial
     - [Hướng dẫn về Git cho người mới bắt đầu](https://goo.gl/Y2a9kQ)
     - [Try Git](http://goo.gl/6ivQ2q) - Got 15 minutes and want to learn Git?
