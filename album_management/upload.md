@@ -41,7 +41,7 @@
         - [Multiple File Upload Input](https://goo.gl/sUR6gR)
         - [Upload Multiple Files With A Single Input With HTML 5 And PHP](https://goo.gl/QDfGke)
         - [Multiple File Upload With PHP And MySQL](http://goo.gl/25gB95)
-    - Laravel
+    - Laravel 4
         - [Uploading files in Laravel 4](http://goo.gl/r6akRp)
         - [Upload files in laravel](http://goo.gl/gMGWjm)
         - [Howto : AJAX multiple file upload in Laravel](http://goo.gl/gZGlkV)
@@ -52,7 +52,10 @@
         - [Laravel 4 Multi/Single Ajax Upload :: Validation](http://goo.gl/FA66xH)
         - [Image manipulation in Laravel 4 with Imagine](http://goo.gl/IySQac)
         - [How To Create File Upload With Laravel](http://goo.gl/XUBH8Y)
+    - Laravel 5
         - [Upload multiple files in laravel 5](http://goo.gl/JHQbD5)
+        - [Processing File Uploads With Laravel 5](http://goo.gl/RRNcZH)
+        - [How to upload files in Laravel 5](https://goo.gl/eeDKbu)
     - Youtube
         - [laravel 4 - ajax - multiple images files uploading with js formdata object, progress, json response](http://youtu.be/PNtuds0l8bA)
         - [laravel 4 intervention image package - image upload - resize and save](http://youtu.be/c2j0qDjzu4o)
