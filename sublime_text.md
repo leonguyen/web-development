@@ -42,16 +42,19 @@
         - [SelectExact](https://goo.gl/nvECEe) - A Sublime Text plugin for exact match selections
         - [FakeDataGenerator](https://goo.gl/9hLYgG) - Repeat the selected text N times, and/or also may generate Fake Data if you wish using the external library Faker
     - PHP
+        - [sublime-php-grammar](https://goo.gl/9NgZmc) - An improved PHP syntax, indentation rules, smart completions, and more.
+        - [sublime-php-snippets](https://goo.gl/BdGW8k) - PHP snippets for Sublime Text
+        - [PHP Completions Kit](https://goo.gl/Ln0Vo0) - PHP completions for Sublime Text
         - [Phpcs](http://goo.gl/Pv5ITD) - PHP CodeSniffer, PHP Coding Standard Fixer, Linter and Mess Detector Support for Sublime Text
-        - [SublimeLinter-phpcs](http://goo.gl/kc8QiQ)
+        - [PhpNinJaManual](https://goo.gl/WRlLy0) - Sublime中的函数手册提示，中文，其他语言的可以通过命令生成
         - [Project PHP ClassBrowser](http://goo.gl/cMLqHC)
         - [PhpCodeGen](http://goo.gl/EJ3fEr) - PhpCodeGen is a Sublime Text 2 and 3 Plugin that generates Object Oriented Code from a simple shorthand syntax
-        - [Laravel Blade Highlighter](http://goo.gl/TSNTeO)
-        - [Blade Snippets](https://goo.gl/Zj4UCV) - Snippets for blade template engine
-        - [Blade Spacer](http://goo.gl/28PZw4) - Automatically adds spaces between laravel blade templating markers
-        - [sublime-php-grammar](https://goo.gl/9NgZmc) - Provides Sublime Text PHP grammar
         - [sublime-phpck](https://goo.gl/27XsVd) - Provides PHP completions for Sublime Text
         - [PhpCodeGen](https://goo.gl/Dw4Yyd) | [Docs](https://goo.gl/qoFsqr) - PhpCodeGen is a Sublime Text 2 and 3 Plugin that generates Object Oriented Code from a simple shorthand syntax
+    - Laravel
+        - [Laravel Blade Highlighter](http://goo.gl/TSNTeO) - Laravel Blade syntax highlighter support for Sublime Text
+        - [Blade Snippets](https://goo.gl/Zj4UCV) - Snippets for blade template engine
+        - [Blade Spacer](http://goo.gl/28PZw4) - Automatically adds spaces between laravel blade templating markers
     - Diff
         - [Diffy](http://goo.gl/59QLCw) - A sublime plugin to show difference between 2 files. It supports both Sublime 2 and 3
         - [FileDiffs](http://goo.gl/kwdnKQ) - Shows diffs between the current file, or selection(s) in the current file, and clipboard, another file, or unsaved changes

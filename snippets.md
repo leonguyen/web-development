@@ -58,7 +58,7 @@
     - [Front End Snippets](http://goo.gl/TQsIIi) | [Docs](http://goo.gl/IruWun)
     - [AutoCompleteJS](https://goo.gl/PRJlS0) - method/function/var autocomplete functionality for JavaScript /JS
 - jQuery
-    - [jquery-plugin-snippets](http://goo.gl/NNVXML)
+    - [jquery-plugin-snippets](http://goo.gl/NNVXML) - A bunch of jQuery plugin snippets for Sublime Text 2 via shichuan/javascript-patterns/jquery-plugin-patterns
     - [jQuery](http://goo.gl/oqD4ls)
     - [sublime-jquery-snippets](https://goo.gl/qF3db3) - Code snippets for developing with jQuery
 - ReactJS
