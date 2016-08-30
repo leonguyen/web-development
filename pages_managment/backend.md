@@ -12,6 +12,7 @@
         - [Laravel Backend](https://goo.gl/3yA5ru) | [Docs](http://laravelbackend.com/)
         - [Laravel-Backpack/crud](https://goo.gl/i2ecto) - Build a custom admin interface for your Eloquent models, using Laravel 5.2
         - [yabhq/laracogs](https://goo.gl/cSkS3I) - Prepare your Laravel apps incredibly fast, with various commands, services, facades and boilerplates
+        - [CRUDBOOSTER - Laravel CRUD Generator](http://goo.gl/yM2R9z) - Laravel + CRUD Generator Package, Make a Web Application Just In Minutes, With Less Code and Less Step !
     - [rapyd-laravel](http://goo.gl/jPQNQR) - Grids and Forms | [Demo](http://goo.gl/JOKQQI) | [Wiki](http://goo.gl/RHu0KB)
     - [Laravel-Administrator](http://goo.gl/UvaAAE) | [Docs](http://goo.gl/5EoFOS) | Video: [Installation](http://vimeo.com/64693369) | [Fields](https://vimeo.com/65980351)
     - [Raw](http://goo.gl/RwZnJJ) | [Docs](http://raw.adigheorghe.ro/) | [Demo](http://goo.gl/qzjZW2)
