@@ -23,5 +23,6 @@ with an easy-to-use framework](http://goo.gl/2oWy7G)
     - [Online Booking System](http://goo.gl/jjTR4J)
     - [Skyscanner](http://goo.gl/agr1gQ)
     - [Vietnam Airline Book Trip](http://goo.gl/8k23nW)
+    - [Attendize](http://goo.gl/tuVsox) - Open-source ticket selling and event management platform
 - School
     - [Ekattor School Management System Pro](http://goo.gl/0AwU7D)

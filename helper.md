@@ -13,6 +13,7 @@
     - [Useful-PHP-Functions](https://goo.gl/pzLe2U) - Set of system-independent functions from CleverStyle CMS
     - [JBZoo/Utils](https://goo.gl/QRDgNS) - Some useful PHP functions and mini classes for pleasant web-development
     - [belt](https://goo.gl/seqXwD) - A handful of tools for PHP developers
+    - [Recipe](http://goo.gl/4LPnYA) - Collection of PHP Functions
     - Laravel
         - [laravel-formatter](http://goo.gl/vmF5wi) - A Formatter Class for Laravel 4 based on FuelPHP's Formatter Class
         - [Intervention/helper](http://goo.gl/aZHAeO) - PHP Helper classes to handle dates and strings. Built to work with the Laravel 4 framework
