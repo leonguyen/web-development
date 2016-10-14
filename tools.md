@@ -4,6 +4,17 @@
     - [WinSCP](http://winscp.net/eng/download.php)
     - [ConEmu](http://goo.gl/JId7le) - Windows Console Emulator, Far Manager plugins
     - [cURL for Windows](http://www.confusedbycode.com/curl/)
+    - Composer
+        - Tutorial
+            - [Why you should use Composer and how to start using it](http://goo.gl/UX76t3)
+            - [Easy Package Management With Composer](http://goo.gl/RPAZKP)
+            - [Composer - A crash course](http://goo.gl/0HVF96)
+            - [Installing / updating Composer dependencies is very slow or time outs](http://goo.gl/JWcVpQ)
+            - [Mastering Composer – Tips and Tricks](http://goo.gl/C4iXDy)
+        - Video
+            - [How to Use Composer](http://goo.gl/1l78OQ)
+    * Installation
+        - Goto [getcomposer.org](https://getcomposer.org/) and download.
 * Graphics
     - [ShareX](http://getsharex.com/) - Take a screenshot or a screencast, have it uploaded and get the URL
 copied to your clipboard with a single hotkey

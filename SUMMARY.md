@@ -2,8 +2,6 @@
 
 * [CMS](README.md)
 * [Tools](tools.md)
-   * [Composer](laravel/composer.md)
-       * [Create Project](laravel/composerjson.md)
    * [Git](git.md)
        * [GitLab](gitlab.md)
    * [Sublime Text](sublime_text.md)

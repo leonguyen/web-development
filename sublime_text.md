@@ -42,6 +42,7 @@
         - [SelectExact](https://goo.gl/nvECEe) - A Sublime Text plugin for exact match selections
         - [FakeDataGenerator](https://goo.gl/9hLYgG) - Repeat the selected text N times, and/or also may generate Fake Data if you wish using the external library Faker
     - PHP
+        - [DocPHPManualer](https://goo.gl/bMyhij) - show the document of current function on Sublime Text
         - [sublime-php-grammar](https://goo.gl/9NgZmc) - An improved PHP syntax, indentation rules, smart completions, and more.
         - [sublime-php-snippets](https://goo.gl/BdGW8k) - PHP snippets for Sublime Text
         - [PHP Completions Kit](https://goo.gl/Ln0Vo0) - PHP completions for Sublime Text
