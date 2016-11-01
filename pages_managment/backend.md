@@ -1,18 +1,5 @@
 # CRUD
 * Packages
-    - Admin
-        - [admin](http://goo.gl/Oq8VXJ) | [Video](http://goo.gl/sJbGEy)
-        - [Lara-Admin](http://goo.gl/s24D49) | [Video](http://youtu.be/bV5U-yFYUWM) - Admin Interface for Laravel
-        - [Bauhaus](http://goo.gl/I55wHc) | [Document](http://goo.gl/Rp7j67) - The missing Laravel 4 Admin Generator
-        - [laravel-table-admin](http://goo.gl/AB3WTT) - Laravel-Table-Admin Simple CRUD package for Laravel 4
-        - [ReactiveAdmin](http://goo.gl/XNKupq) - Fast, Flexible & Secure Admin for Laravel4
-        - [laravel-artificer](http://goo.gl/usQIfa) - Artificer is an admin package built on top of your Eloquent models
-        - [LaravelAdmin](http://goo.gl/xDCXrE) - Admin for Laravel Project
-        - [Laravel-5-Bootstrap-3-Starter-Site](http://goo.gl/XNB1fR) - Laravel Framework 5 Bootstrap 3 Starter Site is a basic application with news, photo and video galeries
-        - [Laravel Backend](https://goo.gl/3yA5ru) | [Docs](http://laravelbackend.com/)
-        - [Laravel-Backpack/crud](https://goo.gl/i2ecto) - Build a custom admin interface for your Eloquent models, using Laravel 5.2
-        - [yabhq/laracogs](https://goo.gl/cSkS3I) - Prepare your Laravel apps incredibly fast, with various commands, services, facades and boilerplates
-        - [CRUDBOOSTER - Laravel CRUD Generator](http://goo.gl/yM2R9z) - Laravel + CRUD Generator Package, Make a Web Application Just In Minutes, With Less Code and Less Step !
     - [rapyd-laravel](http://goo.gl/jPQNQR) - Grids and Forms | [Demo](http://goo.gl/JOKQQI) | [Wiki](http://goo.gl/RHu0KB)
     - [Laravel-Administrator](http://goo.gl/UvaAAE) | [Docs](http://goo.gl/5EoFOS) | Video: [Installation](http://vimeo.com/64693369) | [Fields](https://vimeo.com/65980351)
     - [Raw](http://goo.gl/RwZnJJ) | [Docs](http://raw.adigheorghe.ro/) | [Demo](http://goo.gl/qzjZW2)
