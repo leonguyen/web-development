@@ -3,6 +3,10 @@
     - [jquerypluginplus](http://jquerypluginplus.com/)
     - [jquery-plugins](http://jquery-plugins.net/)
 * Tutorial
+    - [techfunda.com/howto/jquery](http://techfunda.com/howto/jquery)
+    - [www.tutorialsteacher.com/jquery/jquery-tutorials](http://www.tutorialsteacher.com/jquery/jquery-tutorials)
+    - [www.tutorialspoint.com/jquery/index.htm](http://www.tutorialspoint.com/jquery/index.htm)
+    - [jQuery Cheat Sheet](http://overapi.com/jquery)
     - [jQuery 1.8 API Cheat Sheet](http://jqapi.ru/)
     - [jQuery By Example](http://www.jquerybyexample.net/)
     - jQuery Plugins

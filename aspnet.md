@@ -1,5 +1,52 @@
 # ASP.NET
 * Tutorial
+    - ASP.NET Document
+        - [www.dotnetperls.com/asp](https://www.dotnetperls.com/asp)
+        - [docs.asp.net/en/latest/index.html](https://docs.asp.net/en/latest/index.html)
+        - [Writing Your First ASP.NET Page](http://goo.gl/VOS13m)
+    - ASP.NET MVC
+        - [www.tutorialspoint.com/asp.net_mvc/index.htm](http://www.tutorialspoint.com/asp.net_mvc/index.htm)
+        - [www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials](http://www.tutorialsteacher.com/mvc/asp.net-mvc-tutorials)
+        - [asp.net-tutorials.com](http://asp.net-tutorials.com)
+        - [Tài liệu tiếng việt lập trình ASP.net MVC5 chi tiết](http://goo.gl/SGRUXy)
+        - [MVC Application Lifecycle](http://goo.gl/K8PCT0)
+        - ASP.NET MVC 5: Building Your First Web Application [Part1](http://goo.gl/kx9gOG) | [Part2](http://goo.gl/8tzqfL)
+    - Model
+        - [techfunda.com/howto/asp-net-mvc/models](http://techfunda.com/howto/asp-net-mvc/models)
+    - Paging
+        - [Nugget for easily paging through any IEnumerable/IQueryable in Asp.Net MVC](https://github.com/kpi-ua/X.PagedList)
+    - View
+        - [Rendering a Partial View and JSON Data Using AJAX in ASP.NET MVC](https://goo.gl/5imv8a)
+    - Razor Engine
+        - [techfunda.com/howto/asp-net-mvc/views-razor-engine](http://techfunda.com/howto/asp-net-mvc/views-razor-engine)
+    - CRUD
+        - [CRUD Operations in ASP.NET MVC Using AJAX and Bootstrap](https://goo.gl/rvn9Ag)
+    - EF
+        - [techfunda.com/howto/asp-net-mvc/entity-framework](http://techfunda.com/howto/asp-net-mvc/entity-framework)
+        - [www.tutorialspoint.com/entity_framework/entity_framework_overview.htm](http://www.tutorialspoint.com/entity_framework/entity_framework_overview.htm)
+        - [Basics of Entity Framework](http://goo.gl/SAAQmB)
+        - [Getting Started With Entity Framework](http://goo.gl/8mJlS5)
+        - [Working with Transactions (EF6 Onwards)](http://goo.gl/SZ0LZu)
+    - Repository & UoW
+        - [Tìm hiểu về Repository Pattern và Generic Repository Pattern](http://goo.gl/M7k7jD)
+        - [Kết hợp Unit Of Work và Repository Pattern trong ASP.NET](http://goo.gl/iniCja)
+        - [Generic Repository Pattern in ASP.NET MVC](http://goo.gl/MORzn3)
+        - [Implementing the Repository and Unit of Work Patterns in an ASP.NET MVC Application (9 of 10)](http://goo.gl/QxP2pv)
+    - LINQ
+        - [www.tutorialspoint.com/linq/index.htm](http://www.tutorialspoint.com/linq/index.htm)
+        - [www.tutorialsteacher.com/linq/linq-tutorials](://www.tutorialsteacher.com/linq/linq-tutorials)
+        - [Sự khác nhau giữa IEnumerable và IQueryable](http://goo.gl/OZInLE)
+        - [101 LINQ Samples](https://goo.gl/cSdHtX)
+    - Auth
+        - [ASP.NET Identity](http://goo.gl/1gr0Z6)
+        - ASP.NET Identity 2.1 with ASP.NET Web API 2.2 (Accounts Management) – [Part 1](http://goo.gl/Q56onK) | [Part 2](http://goo.gl/ExL7za) | [Part 5](http://goo.gl/lFcBol)
+    - Web services
+        - [Sự khác nhau giữa Web Service, WCF, WCF REST, Web API](http://goo.gl/efpjHe)
+        - [Cách tạo asp.net web api service dùng cho mobile app](http://goo.gl/zFMF0c)
+        - [Your first C# Web Service](http://goo.gl/WbFRfw)
+        - [HOW TO: Write a Simple Web Service by Using Visual C# .NET](http://goo.gl/iY3pOf)
+    - API
+        - [Xây dựng JSON Web APIs với ASP.NET MVC 4 và ASP.NET Web API](http://goo.gl/RxEQ70)
     - Sites
         - [ASP.NET](http://www.asp.net/get-started)
     - Articles

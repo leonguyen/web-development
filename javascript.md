@@ -27,3 +27,6 @@
         - [The Final Steps to Mastering JavaScript’s “this” Keyword](http://goo.gl/d4NBfe)
         - [How to refresh a page using javascript?](http://goo.gl/YGNpph)
         - [An Introduction to Functional JavaScript](http://goo.gl/QwcAhh)
+# Regex
+* JS Libraries
+    - [jQuery form Validation](http://goo.gl/zIOjcc)
