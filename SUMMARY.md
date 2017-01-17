@@ -1,10 +1,10 @@
 # Summary
 
-* [CMS](README.md)
+* [Web Development](README.md)
 * [Tools](tools.md)
    * [Git](git.md)
    * [Sublime Text](sublime_text.md)
-       * [Snippets](snippets.md)
+   * [Visual Studio](visual_studio.md)
 * [Server](server.md)
    * [Hosting Panel](hosting.md)
    * [Apache](apache.md)
