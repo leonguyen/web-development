@@ -1,13 +1,1 @@
-# Message
-- JS Libraries
-    - [Noty](http://ned.im/noty/)
-    - [iGrowl](http://goo.gl/rdnbtu) | [Docs](http://goo.gl/wwLoYF)
-    - [bootstrap-growl](http://goo.gl/TUeiJk) - Turns standard Bootstrap alerts into "Growl-like" notifications
-    - [UIkit.notify](http://goo.gl/SfeJ3P)
-    - [notifyMe](http://goo.gl/E6nPtb) - fixed notifications in pages
-    - [Laravel notifications / messages](http://goo.gl/2TyMmF)
-    - [messenger](http://goo.gl/uIkPKI) - Growl-style alerts and messages for your app. #hubspot-open-source
-    - [vex](http://goo.gl/2o5zs3) | [Docs](http://goo.gl/yJJBuj) - Dialogs for the 21st century
-    - [sweetalert](http://goo.gl/Umkufp) | [Demo](http://goo.gl/9uUOeP) - A beautiful replacement for JavaScript's "alert"
-    - [jQuery Prompt21](http://goo.gl/QCuORk) - A minimalist jQuery prompt plugin for the 21st Century
-    - [notie.js](https://goo.gl/aBT4SN) - A clean and simple notification plugin (alert/growl style) for javascript, with no dependencies
+
