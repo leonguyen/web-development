@@ -2,7 +2,7 @@
 
 * [Web Development](README.md)
 * [Tools](tools.md)
-   * [Git](git.md)
+   * [Source Version](git.md)
    * [Sublime Text](sublime_text.md)
    * [Visual Studio](visual_studio.md)
 * [Server](server.md)
