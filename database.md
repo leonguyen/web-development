@@ -43,3 +43,63 @@ and assists you monitor your backup creation
     - [PDO vs. MySQLi: Which Should You Use?](http://goo.gl/zwSHoN)
     - Slim
         - [How to use Laravel's Eloquent ORM with the Slim Framework](http://goo.gl/NEAyjN)
+# Denormalization
+* Tutorial
+    - [Database Denormalization](http://goo.gl/AgbC3U)
+# SQL Server
+- Tutorial
+    - [techfunda.com/howto/sql-server](http://techfunda.com/howto/sql-server)
+    - [www.quackit.com/sql_server/sql_server_2008/tutorial/](http://www.quackit.com/sql_server/sql_server_2008/tutorial/)
+    - [Các cách tối ưu dung lượng Log file của database SQL Server](http://goo.gl/CzvBBw)
+    - [MS-SQL ‘Recycle Bin’](https://goo.gl/yF3gs1)
+    - Index
+        - [Chỉ mục (Index) trong SQL](https://goo.gl/y1Ytbo)
+# IndexedDB
+* Packages
+* Tutorial
+    - [Synchronization between mysql and IndexedDB](http://goo.gl/QCbW7D)
+    - [IndexedDB : Database in browser](http://goo.gl/f6gaT5)
+    - [Introduction to IndexedDB: The In-Browser Database](http://goo.gl/XMbFUc)
+# Redis
+* Packages
+    - [laravel-compleet](http://goo.gl/Rak5xP) - Laravel integration for Compleet: A Redis-backed service for fast autocompleting
+    - [RedCard-Autocomplete](http://goo.gl/i2oORq) - A Redis Autocomplete library in PHP
+        - [soulmate](http://goo.gl/ooYVFP) - Redis-backed service for fast autocompleting
+    - [larablog](http://goo.gl/ZKESdX) - A very simple blog app using Laravel and Redis
+    - [cacher](http://goo.gl/KaVL7B) - A simple stackable PHP caching library with Redis, File, Memory (array) and Custom ArrayAccess backends
+    - [Modis](http://goo.gl/9fy9pX) - Redis CRUD model based on ideas from Laravels model
+* Tutorial
+    - [Redis](http://laravel.com/docs/redis)
+    - [Realtime App Using Laravel + NodeJs + AngularJS + Redis](http://goo.gl/YpXp3O)
+    - [redis-orm](http://goo.gl/qdxf5J) - Easy and simple Redis ORM for PHP
+    - [Using a Redis Server as your Laravel Cache Storage](http://goo.gl/P7FaM4)
+    - [Caching data in sections](http://goo.gl/K3bEwT)
+    - [Getting Started with Redis in PHP](http://goo.gl/wss0C9)
+    - Youtube
+        - [Laravel with NodeJS , AngularJS and Redis](http://youtu.be/72jyigt3fH8)
+# MongoDB
+* Packages
+    - [laravel-mongodb](http://goo.gl/4PYJbA) - A MongoDB based Eloquent model and Query builder for Laravel 4 (Moloquent)
+    - [mongolid-laravel](http://goo.gl/HycEKz) - Easy, powerful and ultrafast MongoDB ODM for Laravel
+    - [laravel-mongodb-session](http://goo.gl/Z5qoEC)
+    - [laravel-mongodb-sentry](http://goo.gl/BaP6P9)
+    - [laravel-mongo-ardent](http://goo.gl/OOQKW2) - Self-validating, secure and smart models for Laravel 4's Eloquent O/RM
+    - [laravel-mongo-auth](http://goo.gl/CtynMr)
+    - [lavarel-curb-mongodb](http://goo.gl/MBg5Fg)
+* Apps
+    - [mongolab.com](https://mongolab.com/)
+* Tutorial
+    - MongoDB vs SQL [Part 1-2](http://goo.gl/rnmoxn) | [Part 3-5](http://goo.gl/PFWlr3) | [Part 14](http://goo.gl/owORa7)
+    - [MySQL vs. MongoDB: Choosing a Data Management Solution](http://goo.gl/osGzk7)
+    - Performance
+        - [MongoDB vs. SQL Server 2008 Performance Showdown](http://goo.gl/U4Xl46)
+# Elasticsearch
+* Tutorial
+    - [How To Interact with Data in ElasticSearch Using CRUD Operations](http://goo.gl/7C8lGX)
+    - [WordPress Full Text Search With ElasticSearch](http://goo.gl/w1Qw6F)
+    - [Create your own fulltext searchengine with PHP and MySQL](http://goo.gl/iHi2ix)
+    - [Simple Search with Laravel and ElasticSearch](http://goo.gl/U7R3l0)
+    - [Integrating Elasticsearch with Your Laravel app](https://goo.gl/9kuhgK)
+    - Youtube
+        - [Laravel 5 Searching, Indexing & Image file Video Tutorials  | Skill Infinity](http://goo.gl/fzLCES)
+        - [Popular Elasticsearch](http://goo.gl/5z14Au)

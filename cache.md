@@ -53,3 +53,67 @@
         - [Laravel Caching Video Tutorials  | Skill Infinity](http://goo.gl/KXflKV)
         - [Laravel Caching Ins and Outs](http://youtu.be/Hl4-dftfc0o)
         - [cache forever](http://youtu.be/MgdHkY0yfNw)
+# APC
+* Tutorial
+    - [Alternative PHP Cache](http://goo.gl/tpIbvh)
+        - [Set up Alternative PHP Cache (APC)](http://goo.gl/CElOz6)
+        - [Installing APC in Windows](http://goo.gl/WdsjSM)
+        - [Install APC for PHP](http://goo.gl/OcjIsn)
+        - [Speed up PHP with APC - Alternative PHP Cache](http://goo.gl/2ZZKcs)
+        - [PHP accelerations: How to configure Alternative PHP Cache (APC) on Windows](http://goo.gl/QUtUCI)
+        - [PHP: APC Configuration and Usage Tips and Tricks](http://goo.gl/kWVvRb)
+        - [Laravel 4 is slow ?](http://goo.gl/jRiWzo)
+        - [How to speed up PHP with Opcode cache like APC](http://goo.gl/f5ApU1)
+        - Windows
+            - [Download](http://goo.gl/5gVU5t)
+            - [PHP accelerations: How to configure Alternative PHP Cache (APC) on Windows](http://goo.gl/RMf6aP)
+            - [Install APC on WAMP Server (Windows)](http://goo.gl/BNK8bJ)
+            - [How to Install Alternative PHP Cache (APC) on Windows (WAMP)](http://goo.gl/nGyw6e)
+# OPCache (Opcode Caching)
+- Apps
+    - [OpCacheGUI](http://goo.gl/qnkMks) - GUI for PHP's OpCache
+    - [opcache-gui](https://goo.gl/pu8AY2) - A clean, effective and responsive interface for Zend OPcache
+    - [PHP OpCache](http://goo.gl/Le9IUS)
+    - [opcache-status](https://goo.gl/31LVkd) - A one-page opcache status page
+* Tutorial
+    - [PHP OPcache](http://goo.gl/y4LzEg) - mikejung
+    - [Understanding OpCache](http://goo.gl/Mjq8fr)
+    - [How to use PHP OPCache?](http://goo.gl/ZkaMuZ)
+    - [Why Every PHP Application Should Use an OpCache](http://goo.gl/sVzHuo)
+    - [Moving forward with Zend OPCache + Memcached](http://goo.gl/kJSbCd)
+    - [Caching Hat-trick: Zend Opcache, Etags and Query Caching](http://goo.gl/76SHfE)
+    - Windows
+        - [Zend OPcache + PHP 5.4 on Windows](http://goo.gl/OwGyU8)
+- PHP < 5.5
+    - [ZendOpcache](http://goo.gl/yJQjxJ)
+    - [Speed up your PHP application with Zend OpCache](http://goo.gl/i6x5gk)
+- Youtube
+    - [Tutoriel PHP : OPcache](https://youtu.be/saLUiJXd8ew)
+# Pagespeed Module
+* Tutorial
+    - [PageSpeed Module]([https://goo.gl/s78UIz](https://developers.google.com/speed/pagespeed/module/)
+        - [Github](https://github.com/pagespeed)
+        - [Apache Module](http://modpagespeed.com/) | [Github](https://github.com/pagespeed/mod_pagespeed)
+        - [Nginx Module](http://ngxpagespeed.com/) | [Github](https://github.com/pagespeed/ngx_pagespeed)
+    - [How to Get Started With mod_pagespeed with Apache on an Ubuntu and Debian Cloud Server](https://goo.gl/VbsLHF)
+    - [Automating Web Performance Best Practices with mod_pagespeed](http://goo.gl/WRXJbi)
+    - [WordPress & chasing 100% on pagespeed insights](https://goo.gl/8UdMzY)
+    - [How To Uninstall mod_pagespeed in Ubuntu and Debian Linux](https://goo.gl/jyCS4I)
+    - Memcached
+        - [Speed up apache webserver with mod_pagespeed and memcached on Debian 7 (Wheezy)](https://goo.gl/VJj1ID)
+        - [How To Install and Use Memcache on Ubuntu 14.04](https://goo.gl/73gjEi)
+* Youtube
+    - [Make the Web Fast: Automagic site optimization with mod_pagespeed 1.0!](https://youtu.be/6uCAdQSHhmA)
+    - [Mod_Pagespeed - The Showdown!](https://youtu.be/SwrgIV5miNA)
+# Memcached
+* Packages
+    - [multi-memcached](http://goo.gl/JsbrEg) - Multiple memcached connection handler for Laravel Cache
+* Tutorial
+    - [Installing Memcached on Windows](https://goo.gl/LYdHlz)
+    - [Lumen Memcached not Working?](https://goo.gl/tZ9ydZ)
+# Compression
+- mod_deflate
+    - [Apache Module mod_deflate](http://httpd.apache.org/docs/2.0/mod/mod_deflate.html)
+    - [Check GZIP Compression](http://www.giftofspeed.com/gzip-test/)
+* Tutorial
+    - [Compressing Web Content with mod_gzip and mod_deflate](http://goo.gl/gHUZ4L)
