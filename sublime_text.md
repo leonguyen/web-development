@@ -149,6 +149,7 @@
 - [st-JavaScript-override](http://goo.gl/uZ3DSP)
 - [Front End Snippets](http://goo.gl/TQsIIi) | [Docs](http://goo.gl/IruWun)
 - [AutoCompleteJS](https://goo.gl/PRJlS0) - method/function/var autocomplete functionality for JavaScript /JS
+- [JavaScript & NodeJS Snippets for Sublime Text 2/3](https://goo.gl/ajKeSI)
 ## jQuery
 - [jquery-plugin-snippets](http://goo.gl/NNVXML) - A bunch of jQuery plugin snippets for Sublime Text 2 via shichuan/javascript-patterns/jquery-plugin-patterns
 - [jQuery](http://goo.gl/oqD4ls)
