@@ -35,3 +35,10 @@
         - [Learn CSS in 12 Minutes](https://youtu.be/0afZj1G0BIE)
         - [Learn HTML in 12 Minutes](https://youtu.be/bWPMSSsVdPk)
         - [Learn More HTML in 12 Minutes](https://youtu.be/KJ13lX20FqU)
+# Emmet
+* Tutorial
+    - [7 Awesome Emmet HTML Time-Saving Tips](https://goo.gl/xlYs1K)
+    - [6 Awesome Emmet CSS Time-Saving Tips](https://goo.gl/aAMZV9)
+    - [Turbo-Charge Your CSS With Emmet](https://goo.gl/tri7jr)
+    - [The Best Way to Learn CSS](https://goo.gl/UhOO3w)
+    - Faster Workflow: Mastering Emmet [Part 1](https://goo.gl/VXbE0F) | [Part 2](https://goo.gl/cNkhSm) | [Part 3](https://goo.gl/CSrF1e)

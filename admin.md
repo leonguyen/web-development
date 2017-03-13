@@ -12,6 +12,7 @@
 - [EasyAdminBundle](https://goo.gl/Rtb4UL) - The new (and simple) admin generator for Symfony applications
 - [LaravelInstaller](https://goo.gl/Lc9VV4) - A web installer for Laravel 5.1
 - [Voyager](https://goo.gl/2woUFT) - The Missing Laravel Admin
+- [Simple CMS](https://goo.gl/A0hn28)
 # CRUD
 * Packages
     - Grid
